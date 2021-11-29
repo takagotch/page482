@@ -15,7 +15,6 @@ permalink: index.html
 
 
 
-Follow these instructions to build the theme.
 
 ### No.1 *Junya.じゅんや*　👑
 
