@@ -35,17 +35,17 @@ Follow these instructions to build the theme.
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 
-### No.3 xxx
+### No.3 まいぜんシスターズ
+![](https://yt3.ggpht.com/G7RTgeS3hyhX69n8UuOs0BmE4f_CNarOdJIQUVU0X7xflqMSC7PimpCZOx-eQQwLoKwK6Fik=s176-c-k-c0x00ffffff-no-rj)
 
-In case you haven't installed Bundler, install it:
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-```
-gem install bundler
-```
 
-You'll want [Bundler](http://bundler.io/) to make sure all the Ruby gems needed work well with your project. Bundler sorts out dependencies and installs missing gems or matches up gems with the right versions based on gem dependencies.
 
-### 4. Option 1: Build the Theme (*without* the github-pages gem) {#option1}
+
+### No.4 Fischer's-フィッシャーズ-
 
 Use this option if you're not planning to publish your Jekyll site using [Github Pages](https://pages.github.com/).
 
@@ -66,7 +66,7 @@ Now run jekyll serve (first change directories (`cd`) to where you downloaded th
 jekyll serve
 ```
 
-### 4. Option 2: Build the Theme (*with* the github-pages gem) {#option2}
+### No.5
 
 If you *are* in fact publishing on Github Pages, leave the Gemfile and Gemfile.lock files in the theme.The Gemfile tells Jekyll to use the github-pages gem. **However, note that you cannot use the normal `jekyll serve` command with this gem due to dependency conflicts between the latest version of Jekyll and Github Pages** (which are noted [briefly here](https://help.github.com/articles/setting-up-your-github-pages-site-locally-with-jekyll/)).
 
