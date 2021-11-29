@@ -192,31 +192,61 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.23 Marble ASMR healing Junior Japan
+#### No.23 Kota Mino Channel / こたみのチャンネル
+![](https://yt3.ggpht.com/Kas7Pu86RZ1Wo6mJ6uf_qVO6Tvk_vqDrZpchmRmnKOBQyltV1p5V0JiYYiVVmaHOi85XW-vpBGA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+#### No.24 Marble ASMR healing Junior Japan
 ![](https://yt3.ggpht.com/ytc/AKedOLSLg2x0bsJaZ5aYtOd2RRrlcFklWMUuTgvaSR519w=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.24 【Repezen Foxx】
+#### No.25 【Repezen Foxx】
 ![](https://yt3.ggpht.com/KriRSswFBFl5jZXONGEU-X4_k0-z-kjJAAjgT1BdCI0QSq-JQu9KNQWWdiz9umwP3ayKxP0TZA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  | 
+
+#### No.26 ジェルちゃんねる
+![](https://yt3.ggpht.com/SqEogYKTqwLt08sEzKikzxy7FfDyzsxDrpQ5ZdJVwjRWxjpX12y5lRZeibiBszBH45p9zjBo=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.25 
+#### No.27 Khaby TikTok
+![](https://yt3.ggpht.com/hDIJ--fSEAS1F6pKdcAocH9DIc5s7doS_-Jk7R-_F0pVvYHeqxNg57ydje0Fg3lOftWkQrTEfSg=s176-c-k-c0x00ffffff-no-rj)
 
-#### No.26 
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.27
+#### No.28 はじめしゃちょー（hajime）
+![](https://yt3.ggpht.com/6V_3dMsN6bmbcRejJi2b_VlCsqNZO25Twb0-MJjOOSaQVcYESy0ikVGIHXvsScOCjAp2u_nF8A=s176-c-k-c0x00ffffff-no-rj)
 
-#### No.28
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.29
+#### No.29 E ve
+![](https://yt3.ggpht.com/sBX3z3os13Gy81Bc7mtqXbqLPa8fjTfb1IZTa1bP86hwmO1rnk2ObzW4HTl5Ew6HO70XuOwBCLQ=s176-c-k-c0x00ffffff-no-rj)
 
-#### No.30
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+#### No.30 ヒカル（Hikaru）
+![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 [](
 #### No.31
