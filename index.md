@@ -113,7 +113,13 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.11 
+### No.11 あいみょん
+![](https://yt3.ggpht.com/EhHwVW_hfQbvY9LKzVGd15aQAQEpBPnWRku4H41CflDfjUe298i0q_e7AsU78y1W0mYEfJUM0I8=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
 ### No.12 
 ### No.13 
 ### No.14 
