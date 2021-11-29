@@ -17,7 +17,7 @@ summary: Youtuber 年収ランキングサイト「カウントダウンYT」　
 
 Follow these instructions to build the theme.
 
-### No.1 Junya.じゅんや　👑
+### *No.1 Junya.じゅんや*　👑
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTZJzYMaSUyGUE3BMvbSYPOrMYPS37B-VsLZdiY9A=s176-c-k-c0x00ffffff-no-rj)
 
