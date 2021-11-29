@@ -46,7 +46,7 @@ summary: Youtuber 年収ランキングサイト「カウントダウンYT」　
 
 Follow these instructions to build the theme.
 
-### No1. Junya.じゅんや
+### No.1 Junya.じゅんや
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTZJzYMaSUyGUE3BMvbSYPOrMYPS37B-VsLZdiY9A=s176-c-k-c0x00ffffff-no-rj)
 
@@ -56,14 +56,15 @@ Follow these instructions to build the theme.
 
 
 
-### 2. Install Jekyll
+### No.2 Sagawa /さがわ
+![](https://yt3.ggpht.com/ytc/AKedOLRO_6VrLH0mIDLF5YOL-IIHW84g1ptRg8Biw7i_=s176-c-k-c0x00ffffff-no-rj)
 
-If you've never installed or run a Jekyll site locally on your computer, follow these instructions to install Jekyll:
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-* [Install Jekyll on Mac][mydoc_install_jekyll_on_mac]
-* [Install Jekyll on Windows][mydoc_install_jekyll_on_windows]
 
-### 3. Install Bundler
+### No.3 xxx
 
 In case you haven't installed Bundler, install it:
 
