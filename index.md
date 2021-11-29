@@ -192,7 +192,12 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.23 
+#### No.23 Marble ASMR healing Junior Japan
+![](https://yt3.ggpht.com/ytc/AKedOLSLg2x0bsJaZ5aYtOd2RRrlcFklWMUuTgvaSR519w=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 #### No.24 
 
