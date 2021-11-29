@@ -76,7 +76,13 @@ jekyll serve
 
 
 
-### No.6 
+### No.6 HIMAWARIちゃんねる
+![](https://yt3.ggpht.com/ytc/AKedOLTv1Eb6sNlocOTMhKxt7Xm1WMZYsTkbpQIpxJVa5g=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
 ### No.7 
 ### No.8 
 #### No.9
