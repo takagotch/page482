@@ -178,7 +178,12 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.21 
+#### No.21 ANNnewsCH
+![](https://yt3.ggpht.com/ytc/AKedOLSmoqY3fwT4NULPCJ_js6B1N4_5EUm7TxIv3GGRvQ=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 #### No.22 
 
