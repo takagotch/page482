@@ -17,7 +17,7 @@ summary: Youtuber 年収ランキングサイト「カウントダウンYT」　
 
 Follow these instructions to build the theme.
 
-### *No.1 Junya.じゅんや*　👑
+### No.1 *Junya.じゅんや*　👑
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTZJzYMaSUyGUE3BMvbSYPOrMYPS37B-VsLZdiY9A=s176-c-k-c0x00ffffff-no-rj)
 
@@ -150,23 +150,52 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.17 
+### No.17 HikakinGames
+![](https://yt3.ggpht.com/ytc/AKedOLSVRqh-bPcw_kJdouWThtVWBF6HqIQIbkzMpwRW7Q=s176-c-k-c0x00ffffff-no-rj)
 
-### No.18 
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.19 
+### No.18 BabyBus - 子供の歌 - 子どもの動画
+![](https://yt3.ggpht.com/ytc/AKedOLQsNIvbhlTUi1DFxPi9Ybz4Is_Rfl5oSjneYY3j=s176-c-k-c0x00ffffff-no-rj)
 
-### No.20
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+### No.19 キヨ。
+![](https://yt3.ggpht.com/ytc/AKedOLTa-SKz2nMicx5vd_y38YMCwDK2Op6S1JD_467ciA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+### No.20 愛國者会長༆登録者49万人目標w【先輩】
+![](https://yt3.ggpht.com/g-JS63M0MMWgDDbt0jYhi7svMq79hBax4GtR1Or1kC9WgbeyjbgVOmcV6yNLrFv4_TBffi9s=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 #### No.21 
+
 #### No.22 
+
 #### No.23 
+
 #### No.24 
+
 #### No.25 
+
 #### No.26 
+
 #### No.27
+
 #### No.28
+
 #### No.29
+
 #### No.30
 ```
 #### No.31
