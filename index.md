@@ -185,7 +185,12 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.22 
+#### No.22 せんももあいしーCh Sen, Momo, Ai & Shii
+![](https://yt3.ggpht.com/ytc/AKedOLQ2IP-BLkT7XXmFWpcZolk4PTzB2UQHFZAKep8-=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 #### No.23 
 
