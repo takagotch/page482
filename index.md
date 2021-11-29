@@ -45,7 +45,7 @@ Follow these instructions to build the theme.
 
 
 
-### No.4 Fischer's-フィッシャーズ-
+### No.4 Fischer's-フィッシャーズ-　📛
 
 Use this option if you're not planning to publish your Jekyll site using [Github Pages](https://pages.github.com/).
 
@@ -66,7 +66,7 @@ Now run jekyll serve (first change directories (`cd`) to where you downloaded th
 jekyll serve
 ```
 
-### No.5 東海オンエア
+### No.5 東海オンエア　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLTDLauymQQXmfG3S_r3ZTzw8ds1VstwhcwvHU_8OA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
@@ -76,28 +76,28 @@ jekyll serve
 
 
 
-### No.6 HIMAWARIちゃんねる
+### No.6 HIMAWARIちゃんねる　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLTv1Eb6sNlocOTMhKxt7Xm1WMZYsTkbpQIpxJVa5g=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.7 Toy Kids★トイキッズ
+### No.7 Toy Kids★トイキッズ　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSirh9hXwuqshfJ0IA6em-CfAHSq1qjDmfKr-Ep4g=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.8 キッズ アニメ&おもちゃ
+### No.8 キッズ アニメ&おもちゃ　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLS09LQnVK8gFJOB2hsQeS8cpLsbY3MHBmH2mWVfQw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.9 コムドット
+### No.9 コムドット　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSrB_r40Y9NDHpBXwn_oBz1Fx4g1PSdRVhjUFezKA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
@@ -105,7 +105,7 @@ jekyll serve
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 
-### No.10 HikakinTV
+### No.10 HikakinTV　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLT_4QR3oddR_gy_wJMIpGPdjJTuaeBRTbcsPzicYQ=s176-c-k-c0x00ffffff-no-rj)
 
 
