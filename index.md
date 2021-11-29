@@ -13,7 +13,7 @@ summary: Youtuber 年収ランキングサイト「カウントダウンYT」　
 
 # Youtuber 年収ランキングサイト「カウントダウンYT」　2021
 ## No.1 Junya.じゅんや
-## No.2 Junya.じゅんや
+## No.2 Sagawa /さがわ
 ## No.3 Junya.じゅんや
 ## No.4 Junya.じゅんや
 ## No.5 Junya.じゅんや
