@@ -199,7 +199,12 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-#### No.24 
+#### No.24 【Repezen Foxx】
+![](https://yt3.ggpht.com/KriRSswFBFl5jZXONGEU-X4_k0-z-kjJAAjgT1BdCI0QSq-JQu9KNQWWdiz9umwP3ayKxP0TZA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 #### No.25 
 
