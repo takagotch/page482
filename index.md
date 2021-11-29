@@ -120,14 +120,27 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.12 
-### No.13 
+### No.12 Ayase / YOASOBI
+![](https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s176-c-k-c0x00ffffff-no-rj)
+
+### No.13 48-フォーエイト
+![](https://yt3.ggpht.com/ytc/AKedOLSp4coeajOfivu1hnJxa0OtDVjUPfJiZ4tMGVEAOQ=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 ### No.14 
+
 ### No.15 
+
 ### No.16 
+
 ### No.17 
+
 ### No.18 
+
 ### No.19 
+
 ### No.20
 
 #### No.21 
@@ -140,6 +153,7 @@ jekyll serve
 #### No.28
 #### No.29
 #### No.30
+```
 #### No.31
 #### No.32
 #### No.33
@@ -160,7 +174,7 @@ jekyll serve
 #### No.48
 #### No.49
 #### No.50
-
+```
 
 
 
