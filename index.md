@@ -129,11 +129,26 @@ jekyll serve
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
-### No.14 
+### No.14 Kids Labo TV
+![](https://yt3.ggpht.com/prUdMkJ_D98MJHQr_JXpXo5AnXzVHszP8jt6OwJBoqAPicCp3r48353Cx10bJnSMV_v_6cI5oA=s176-c-k-c0x00ffffff-no-rj)
 
-### No.15 
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.16 
+### No.15 THE FIRST TAKE
+![](https://yt3.ggpht.com/ytc/AKedOLQbuBH5d26HSVtEaMt9oBgpC2G9gp5Gj3-sDgtvvA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+### No.16 Kan & Aki's CHANNELかんあきチャンネル
+![](https://yt3.ggpht.com/ytc/AKedOLQhOYWxYk1lTqSlyAKvmZOAJt4_IzMYs767GDzwGw=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 ### No.17 
 
