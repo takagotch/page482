@@ -6,13 +6,13 @@ output: web
 topnav_title: Youtuberランキング2021
 # this appears on the top navigation bar next to the home button
 
-site_title: 運命の出会いが待っています♡で10%オフ
+site_title: Youtuber 年収ランキングサイト「カウントダウンYT」　2021
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
 company_name: tkvtv
 # this appears in the footer
 
-github_editme_path: takagotch/page75/blob/gh-pages/
+github_editme_path: takagotch/page482/blob/gh-pages/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 # gitlab_editme_path: tomjoht/documentation-theme-jekyll/blob/gh-pages/
