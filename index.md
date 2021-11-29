@@ -90,7 +90,13 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.8 
+### No.8 キッズ アニメ&おもちゃ
+![](https://yt3.ggpht.com/ytc/AKedOLS09LQnVK8gFJOB2hsQeS8cpLsbY3MHBmH2mWVfQw=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
 ### No.9
 ### No.10 
 
