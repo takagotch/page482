@@ -97,8 +97,21 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-### No.9
-### No.10 
+### No.9 コムドット
+![](https://yt3.ggpht.com/ytc/AKedOLSrB_r40Y9NDHpBXwn_oBz1Fx4g1PSdRVhjUFezKA=s176-c-k-c0x00ffffff-no-rj)
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
+
+### No.10 HikakinTV
+![](https://yt3.ggpht.com/ytc/AKedOLT_4QR3oddR_gy_wJMIpGPdjJTuaeBRTbcsPzicYQ=s176-c-k-c0x00ffffff-no-rj)
+
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 ### No.11 
 ### No.12 
