@@ -1,17 +1,21 @@
 ---
-title:  "Sample post"
+title:  "Junya.じゅんや"
 published: true
 permalink: samplepost.html
 summary: "This is some summary frontmatter for my sample post."
-tags: [news, getting_started]
+tags: [1, getting_started]
 ---
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
 
-## Heading
+## Junya.じゅんや
 
-but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+![](https://yt3.ggpht.com/ytc/AKedOLTZJzYMaSUyGUE3BMvbSYPOrMYPS37B-VsLZdiY9A=s176-c-k-c0x00ffffff-no-rj)
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries
+
+
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+
 
 {% include links.html %}
