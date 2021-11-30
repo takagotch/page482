@@ -6,10 +6,10 @@ output: web
 topnav_title: Youtuberランキング「長者番付」2021
 # this appears on the top navigation bar next to the home button
 
-site_title: Youtuber 年収ランキングサイト「カウントダウンYT」　2021
+site_title: Youtuber 年収ランキングサイト「長者番付YT」　2021
 # this appears in the html browser tab for the site title (seen mostly by search engines, not users)
 
-company_name: Youtube
+company_name: Youtube「長者番付YT」
 # this appears in the footer
 
 # Edit me 
