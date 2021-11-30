@@ -1,5 +1,5 @@
 ###### メディア事業 | 記事
-## Youtuber 年収ランキングサイト「長者番付」　2021
+## Youtuber 年収ランキングサイト「長者番付YT」　2021
 
 ### https://takagotch.github.io/page482/
 
