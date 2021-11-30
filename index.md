@@ -110,21 +110,21 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  非公表  |  2億5377万244円  |
+|  128億6361万7381回  |  非公表  |  1億7340万462円  |
 
 ### No.8 キッズ アニメ&おもちゃ　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLS09LQnVK8gFJOB2hsQeS8cpLsbY3MHBmH2mWVfQw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  45億8997万8454回  |  非公表  |  1億7340万462円  |
+|  45億8997万8454回  |  非公表  |  1億7004万641円  |
 
 ### No.9 コムドット　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSrB_r40Y9NDHpBXwn_oBz1Fx4g1PSdRVhjUFezKA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  281万人  |  1億7340万462円  |
+|  128億6361万7381回  |  281万人  |  1億5901万6407円  |
 
 
 ### No.10 HikakinTV　📛
@@ -132,7 +132,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  1030万人  |  2億5377万244円  |
+|  128億6361万7381回  |  1030万人  |  1億5343万8099円  |
 
 ### No.11 あいみょん
 ![](https://yt3.ggpht.com/EhHwVW_hfQbvY9LKzVGd15aQAQEpBPnWRku4H41CflDfjUe298i0q_e7AsU78y1W0mYEfJUM0I8=s176-c-k-c0x00ffffff-no-rj)
@@ -146,63 +146,63 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  155万人  |  2億5377万244円  |
+|  128億6361万7381回  |  155万人  |  1億4226万8356円  |
 
 ### No.13 48-フォーエイト
 ![](https://yt3.ggpht.com/ytc/AKedOLSp4coeajOfivu1hnJxa0OtDVjUPfJiZ4tMGVEAOQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  174万人  |  2億5377万244円  |
+|  128億6361万7381回  |  174万人  |  1億3967万7738円  |
 
 ### No.14 Kids Labo TV
 ![](https://yt3.ggpht.com/prUdMkJ_D98MJHQr_JXpXo5AnXzVHszP8jt6OwJBoqAPicCp3r48353Cx10bJnSMV_v_6cI5oA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  397万人  |  2億5377万244円  |
+|  128億6361万7381回  |  397万人  |  1億3889万385円  |
 
 ### No.15 THE FIRST TAKE
 ![](https://yt3.ggpht.com/ytc/AKedOLQbuBH5d26HSVtEaMt9oBgpC2G9gp5Gj3-sDgtvvA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  539万人  |  2億5377万244円  |
+|  128億6361万7381回  |  539万人  |  1億3453万1301円  |
 
 ### No.16 Kan & Aki's CHANNELかんあきチャンネル
 ![](https://yt3.ggpht.com/ytc/AKedOLQhOYWxYk1lTqSlyAKvmZOAJt4_IzMYs767GDzwGw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  335万人  |  2億5377万244円  |
+|  128億6361万7381回  |  335万人  |  1億1599万6795円  |
 
 ### No.17 HikakinGames
 ![](https://yt3.ggpht.com/ytc/AKedOLSVRqh-bPcw_kJdouWThtVWBF6HqIQIbkzMpwRW7Q=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  537万人  |  2億5377万244円  |
+|  128億6361万7381回  |  537万人  |  1億1284万4620円  |
 
 ### No.18 BabyBus - 子供の歌 - 子どもの動画
 ![](https://yt3.ggpht.com/ytc/AKedOLQsNIvbhlTUi1DFxPi9Ybz4Is_Rfl5oSjneYY3j=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  417万人  |  2億5377万244円  |
+|  128億6361万7381回  |  417万人  |  1億725万4788円  |
 
 ### No.19 キヨ。
 ![](https://yt3.ggpht.com/ytc/AKedOLTa-SKz2nMicx5vd_y38YMCwDK2Op6S1JD_467ciA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  349万人  |  2億5377万244円  |
+|  128億6361万7381回  |  349万人  |  1億597万8680円  |
 
 ### No.20 愛國者会長༆登録者49万人目標w【先輩】
 ![](https://yt3.ggpht.com/g-JS63M0MMWgDDbt0jYhi7svMq79hBax4GtR1Or1kC9WgbeyjbgVOmcV6yNLrFv4_TBffi9s=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  48万7000人  |  2億5377万244円  |
+|  128億6361万7381回  |  48万7000人  |  1億498万6507円  |
 
 #### No.21 ANNnewsCH
 ![](https://yt3.ggpht.com/ytc/AKedOLSmoqY3fwT4NULPCJ_js6B1N4_5EUm7TxIv3GGRvQ=s176-c-k-c0x00ffffff-no-rj)
