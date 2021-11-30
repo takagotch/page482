@@ -23,7 +23,7 @@ topnav_dropdowns:
 
     - title: Products
       folderitems:
-        - title: Jekyll Documentation Theme
+        - title: xxx
           url: /mydoc_introduction.html
         - title: Product 1
           url: /p1_landing_page.html
