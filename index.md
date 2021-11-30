@@ -230,42 +230,42 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  286万人  |  2億5377万244円  |
+|  128億6361万7381回  |  286万人  |  8970万4392円  |
 
 #### No.25 【Repezen Foxx】
 ![](https://yt3.ggpht.com/KriRSswFBFl5jZXONGEU-X4_k0-z-kjJAAjgT1BdCI0QSq-JQu9KNQWWdiz9umwP3ayKxP0TZA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  249万人  |  2億5377万244円  | 
+|  128億6361万7381回  |  249万人  |  8869万2189円  | 
 
 #### No.26 ジェルちゃんねる
 ![](https://yt3.ggpht.com/SqEogYKTqwLt08sEzKikzxy7FfDyzsxDrpQ5ZdJVwjRWxjpX12y5lRZeibiBszBH45p9zjBo=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  190万人  |  8869万2189円  |
+|  128億6361万7381回  |  190万人  |  8745万7009円  |
 
 #### No.27 Khaby TikTok
 ![](https://yt3.ggpht.com/hDIJ--fSEAS1F6pKdcAocH9DIc5s7doS_-Jk7R-_F0pVvYHeqxNg57ydje0Fg3lOftWkQrTEfSg=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  8745万7009円  |
+|  128億6361万7381回  |  696万人  |  8615万3338円  |
 
 #### No.28 はじめしゃちょー（hajime）
 ![](https://yt3.ggpht.com/6V_3dMsN6bmbcRejJi2b_VlCsqNZO25Twb0-MJjOOSaQVcYESy0ikVGIHXvsScOCjAp2u_nF8A=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  7億1794万4482回  |  48万7000人  |  8615万3338円  |
+|  7億1794万4482回  |  48万7000人  |  8550万9640円  |
 
 #### No.29 E ve
 ![](https://yt3.ggpht.com/sBX3z3os13Gy81Bc7mtqXbqLPa8fjTfb1IZTa1bP86hwmO1rnk2ObzW4HTl5Ew6HO70XuOwBCLQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  14億485万2881回  |  355万人  |  8550万9640円  |
+|  14億485万2881回  |  355万人  |  8547万2991円  |
 
 #### No.30 ヒカル（Hikaru）
 ![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
