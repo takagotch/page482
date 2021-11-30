@@ -38,7 +38,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  33億511万6308回  |  696万人  |  2億5377万244円  |
+|  33億511万6308回  |  373万人  |  3億9661万3957円円  |
 
 {% include note.html content="
 If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
@@ -54,7 +54,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  42億7744万9913回  |  696万人  |  2億5377万244円  |
+|  42億7744万9913回  |  217万人  |  2億5648万9894円  |
 
 {% include note.html content="
 If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
@@ -71,7 +71,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  93億4222万8696回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 {% include note.html content="
 If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
