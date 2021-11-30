@@ -209,21 +209,21 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  218万人  |  2億5377万244円  |
+|  128億6361万7381回  |  218万人  |  9686万4795円  |
 
 #### No.22 せんももあいしーCh Sen, Momo, Ai & Shii
 ![](https://yt3.ggpht.com/ytc/AKedOLQ2IP-BLkT7XXmFWpcZolk4PTzB2UQHFZAKep8-=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  1050万人  |  2億5377万244円  |
+|  128億6361万7381回  |  1050万人  |  9228万3342円  |
 
 #### No.23 Kota Mino Channel / こたみのチャンネル
 ![](https://yt3.ggpht.com/Kas7Pu86RZ1Wo6mJ6uf_qVO6Tvk_vqDrZpchmRmnKOBQyltV1p5V0JiYYiVVmaHOi85XW-vpBGA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  284万人  |  2億5377万244円  |
+|  128億6361万7381回  |  284万人  |  9181万8634円  |
 
 #### No.24 Marble ASMR healing Junior Japan
 ![](https://yt3.ggpht.com/ytc/AKedOLSLg2x0bsJaZ5aYtOd2RRrlcFklWMUuTgvaSR519w=s176-c-k-c0x00ffffff-no-rj)
