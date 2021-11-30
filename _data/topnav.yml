@@ -3,9 +3,9 @@
 topnav:
 - title: Topnav
   items:
-    - title: GitHub
-      external_url: https://github.com/tomjoht/documentation-theme-jekyll
-    - title: News
+    - title: Youtube急上昇
+      external_url: https://www.youtube.com/feed/trending?bp=6gQJRkVleHBsb3Jl
+    - title: ピックアップNews
       url: /news
 
 #Topnav dropdowns
