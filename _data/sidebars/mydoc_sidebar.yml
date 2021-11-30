@@ -6,12 +6,14 @@ entries:
   version: 2021
   folders:
 
-- title: 年収ランキング
+  - title: 年収ランキング
     output: web, pdf
-    
+    folderitems:
+
     - title: 5億OVER・3億Over・1億
       url: /mydoc_shuffle.html
       output: web, pdf
+      type: homepage
 
 #  - title:
 #    output: pdf
