@@ -140,7 +140,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  337万人  |  2億5377万244円  |
 
 ### No.12 Ayase / YOASOBI
 ![](https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s176-c-k-c0x00ffffff-no-rj)
@@ -150,111 +150,111 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  174万人  |  2億5377万244円  |
 ### No.14 Kids Labo TV
 ![](https://yt3.ggpht.com/prUdMkJ_D98MJHQr_JXpXo5AnXzVHszP8jt6OwJBoqAPicCp3r48353Cx10bJnSMV_v_6cI5oA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  397万人  |  2億5377万244円  |
 
 ### No.15 THE FIRST TAKE
 ![](https://yt3.ggpht.com/ytc/AKedOLQbuBH5d26HSVtEaMt9oBgpC2G9gp5Gj3-sDgtvvA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  539万人  |  2億5377万244円  |
 
 ### No.16 Kan & Aki's CHANNELかんあきチャンネル
 ![](https://yt3.ggpht.com/ytc/AKedOLQhOYWxYk1lTqSlyAKvmZOAJt4_IzMYs767GDzwGw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  335万人  |  2億5377万244円  |
 
 ### No.17 HikakinGames
 ![](https://yt3.ggpht.com/ytc/AKedOLSVRqh-bPcw_kJdouWThtVWBF6HqIQIbkzMpwRW7Q=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  537万人  |  2億5377万244円  |
 
 ### No.18 BabyBus - 子供の歌 - 子どもの動画
 ![](https://yt3.ggpht.com/ytc/AKedOLQsNIvbhlTUi1DFxPi9Ybz4Is_Rfl5oSjneYY3j=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  417万人  |  2億5377万244円  |
 
 ### No.19 キヨ。
 ![](https://yt3.ggpht.com/ytc/AKedOLTa-SKz2nMicx5vd_y38YMCwDK2Op6S1JD_467ciA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  349万人  |  2億5377万244円  |
 
 ### No.20 愛國者会長༆登録者49万人目標w【先輩】
 ![](https://yt3.ggpht.com/g-JS63M0MMWgDDbt0jYhi7svMq79hBax4GtR1Or1kC9WgbeyjbgVOmcV6yNLrFv4_TBffi9s=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  48万7000人  |  2億5377万244円  |
 
 #### No.21 ANNnewsCH
 ![](https://yt3.ggpht.com/ytc/AKedOLSmoqY3fwT4NULPCJ_js6B1N4_5EUm7TxIv3GGRvQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  218万人  |  2億5377万244円  |
 
 #### No.22 せんももあいしーCh Sen, Momo, Ai & Shii
 ![](https://yt3.ggpht.com/ytc/AKedOLQ2IP-BLkT7XXmFWpcZolk4PTzB2UQHFZAKep8-=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  1050万人  |  2億5377万244円  |
 
 #### No.23 Kota Mino Channel / こたみのチャンネル
 ![](https://yt3.ggpht.com/Kas7Pu86RZ1Wo6mJ6uf_qVO6Tvk_vqDrZpchmRmnKOBQyltV1p5V0JiYYiVVmaHOi85XW-vpBGA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  284万人  |  2億5377万244円  |
 
 #### No.24 Marble ASMR healing Junior Japan
 ![](https://yt3.ggpht.com/ytc/AKedOLSLg2x0bsJaZ5aYtOd2RRrlcFklWMUuTgvaSR519w=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  286万人  |  2億5377万244円  |
 
 #### No.25 【Repezen Foxx】
 ![](https://yt3.ggpht.com/KriRSswFBFl5jZXONGEU-X4_k0-z-kjJAAjgT1BdCI0QSq-JQu9KNQWWdiz9umwP3ayKxP0TZA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  | 
+|  128億6361万7381回  |  249万人  |  2億5377万244円  | 
 
 #### No.26 ジェルちゃんねる
 ![](https://yt3.ggpht.com/SqEogYKTqwLt08sEzKikzxy7FfDyzsxDrpQ5ZdJVwjRWxjpX12y5lRZeibiBszBH45p9zjBo=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  190万人  |  8745万7009円  |
 
 #### No.27 Khaby TikTok
 ![](https://yt3.ggpht.com/hDIJ--fSEAS1F6pKdcAocH9DIc5s7doS_-Jk7R-_F0pVvYHeqxNg57ydje0Fg3lOftWkQrTEfSg=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  696万人  |  8615万3338円  |
 
 #### No.28 はじめしゃちょー（hajime）
 ![](https://yt3.ggpht.com/6V_3dMsN6bmbcRejJi2b_VlCsqNZO25Twb0-MJjOOSaQVcYESy0ikVGIHXvsScOCjAp2u_nF8A=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  84億2926万3838回  |  972万人  |  8550万9640円  |
+|  7億1794万4482回  |  48万7000人  |  8550万9640円  |
 
 #### No.29 E ve
 ![](https://yt3.ggpht.com/sBX3z3os13Gy81Bc7mtqXbqLPa8fjTfb1IZTa1bP86hwmO1rnk2ObzW4HTl5Ew6HO70XuOwBCLQ=s176-c-k-c0x00ffffff-no-rj)
