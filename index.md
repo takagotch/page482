@@ -110,30 +110,29 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  非公表  |  2億5377万244円  |
 
 ### No.8 キッズ アニメ&おもちゃ　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLS09LQnVK8gFJOB2hsQeS8cpLsbY3MHBmH2mWVfQw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  45億8997万8454回  |  696万人  |  1億7340万462円  |
+|  45億8997万8454回  |  非公表  |  1億7340万462円  |
 
 ### No.9 コムドット　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSrB_r40Y9NDHpBXwn_oBz1Fx4g1PSdRVhjUFezKA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  1億7340万462円  |  1億7340万462円  |
+|  128億6361万7381回  |  281万人  |  1億7340万462円  |
 
 
 ### No.10 HikakinTV　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLT_4QR3oddR_gy_wJMIpGPdjJTuaeBRTbcsPzicYQ=s176-c-k-c0x00ffffff-no-rj)
 
-
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  1030万人  |  2億5377万244円  |
 
 ### No.11 あいみょん
 ![](https://yt3.ggpht.com/EhHwVW_hfQbvY9LKzVGd15aQAQEpBPnWRku4H41CflDfjUe298i0q_e7AsU78y1W0mYEfJUM0I8=s176-c-k-c0x00ffffff-no-rj)
@@ -145,12 +144,17 @@ I also have a site on
 ### No.12 Ayase / YOASOBI
 ![](https://yt3.ggpht.com/ytc/AKedOLQlab7SciC0zKOTNvVomQGmkQpZIr8yRarFZ4HtZw=s176-c-k-c0x00ffffff-no-rj)
 
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  155万人  |  2億5377万244円  |
+
 ### No.13 48-フォーエイト
 ![](https://yt3.ggpht.com/ytc/AKedOLSp4coeajOfivu1hnJxa0OtDVjUPfJiZ4tMGVEAOQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  174万人  |  2億5377万244円  |
+
 ### No.14 Kids Labo TV
 ![](https://yt3.ggpht.com/prUdMkJ_D98MJHQr_JXpXo5AnXzVHszP8jt6OwJBoqAPicCp3r48353Cx10bJnSMV_v_6cI5oA=s176-c-k-c0x00ffffff-no-rj)
 
