@@ -21,7 +21,7 @@ permalink: index.html
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  57億8242万6288回  |  1130万人　|  6億9389万1154円  |
 
 {% include note.html content="
 If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
