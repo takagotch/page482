@@ -21,7 +21,7 @@ topnav_dropdowns:
         - title: まいぜんシスターズCH
           external_url: https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ
 
-    - title: Products
+    - title: トップ1~50位
       folderitems:
         - title: トップ1~50位
           url: /index.html
