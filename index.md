@@ -56,29 +56,31 @@ I also have a site on
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-
+{% include note.html content="
+If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
+<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
+If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
+<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
+I also have a site on 
+<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+" %}
 
 
 ### No.4 Fischer's-フィッシャーズ-　📛
+![](https://yt3.ggpht.com/ytc/AKedOLRaguXQhOaZpPvgYHKXJF64HwHf8V6evAlV5avsaQ=s176-c-k-c0x00ffffff-no-rj)
 
-Use this option if you're not planning to publish your Jekyll site using [Github Pages](https://pages.github.com/).
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-Bundler's Gemfile specifies how project dependencies are managed. Although this project includes a Gemfile, this theme doesn't have any dependencies beyond core Jekyll. The Gemfile is used to list gems needed for publishing on Github Pages. **If you're not planning to have Github Pages build your Jekyll project, delete these two files from the theme's root directory:**
-
-* Gemfile
-* Gemfile.lock
-
-If you've never run Jekyll on your computer (you can check with `jekyll --version`), you may need to install the jekyll gem:
-
-```
-gem install jekyll
-```
-
-Now run jekyll serve (first change directories (`cd`) to where you downloaded the project):
-
-```
-jekyll serve
-```
+{% include note.html content="
+If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
+<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
+If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
+<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
+I also have a site on 
+<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+" %}
 
 ### No.5 東海オンエア　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLTDLauymQQXmfG3S_r3ZTzw8ds1VstwhcwvHU_8OA=s176-c-k-c0x00ffffff-no-rj)
@@ -87,8 +89,14 @@ jekyll serve
 | ---- | ---- | ---- |
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
-
-
+{% include note.html content="
+If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
+<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
+If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
+<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
+I also have a site on 
+<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+" %}
 
 ### No.6 HIMAWARIちゃんねる　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLTv1Eb6sNlocOTMhKxt7Xm1WMZYsTkbpQIpxJVa5g=s176-c-k-c0x00ffffff-no-rj)
