@@ -87,7 +87,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  61億6110万3025回  |  696万人  |  2億5377万244円  |
+|  93億4222万8696回  |  613万人  |  2億4775万6197円  |
 
 {% include note.html content="
 If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
@@ -103,7 +103,7 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  61億6110万3025回  |  277万人  |  1億7491万864円  |
 
 ### No.7 Toy Kids★トイキッズ　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSirh9hXwuqshfJ0IA6em-CfAHSq1qjDmfKr-Ep4g=s176-c-k-c0x00ffffff-no-rj)
@@ -117,14 +117,14 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  45億8997万8454回  |  696万人  |  1億7340万462円  |
 
 ### No.9 コムドット　📛
 ![](https://yt3.ggpht.com/ytc/AKedOLSrB_r40Y9NDHpBXwn_oBz1Fx4g1PSdRVhjUFezKA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  128億6361万7381回  |  1億7340万462円  |  1億7340万462円  |
 
 
 ### No.10 HikakinTV　📛
