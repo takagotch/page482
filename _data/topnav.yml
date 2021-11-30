@@ -12,16 +12,15 @@ topnav:
 topnav_dropdowns:
 - title: Topnav dropdowns
   folders:
-    - title: Jekyll Help
+    - title: 2021年度トップ➂Youtuberチャンネル
       folderitems:
-        - title: Jekyll Talk
-          external_url: https://talk.jekyllrb.com
-        - title: Jekyll documentation
-          external_url: http://jekyllrb.com/docs/home/
-        - title: Jekyll on Stack Overflow
-          external_url: http://stackoverflow.com/questions/tagged/jekyll
-        - title: Jekyll on my blog
-          external_url: http://idratherbewriting.com/category-jekyll/
+        - title: Junya.じゅんやCH
+          external_url: https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg
+        - title: Sagawa /さがわCH
+          external_url: https://www.youtube.com/channel/UCWaOde99oeUVoXbIj3SNu9g
+        - title: まいぜんシスターズCH
+          external_url: https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ
+
     - title: Products
       folderitems:
         - title: Jekyll Documentation Theme
