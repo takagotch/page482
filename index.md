@@ -254,21 +254,21 @@ I also have a site on
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  84億2926万3838回  |  972万人  |  8550万9640円  |
 
 #### No.29 E ve
 ![](https://yt3.ggpht.com/sBX3z3os13Gy81Bc7mtqXbqLPa8fjTfb1IZTa1bP86hwmO1rnk2ObzW4HTl5Ew6HO70XuOwBCLQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  14億485万2881回  |  355万人  |  8547万2991円  |
 
 #### No.30 ヒカル（Hikaru）
 ![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
-|  128億6361万7381回  |  696万人  |  2億5377万244円  |
+|  38億4756万3124回  |  459万人  |  8457万1024円  |
 
 
 
