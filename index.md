@@ -307,7 +307,7 @@ permalink: index.html
 
 #### No.37 KahoSei Channel from Canada
 
-![](http://www.tuber-town.com/image/channel-large/UCqmrtFyHzNwmkSdnd-GPCiQ.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLTeGAC69Fpti1U0qG3EoXhAEHtP7tiJ7cjkFDAymA=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
@@ -316,7 +316,7 @@ permalink: index.html
 
 #### No.38 oricon
 
-![](http://www.tuber-town.com/image/channel-large/UCbZvkG2uAgr6Oiva4FytscQ.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLSRB5h-zX5Hpf-8pKM1O73wjYFQEfc-ovCu8Vytyw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
@@ -325,7 +325,7 @@ permalink: index.html
 
 #### No.39 KUN
 
-![](http://www.tuber-town.com/image/channel-large/UCGjV4bsC43On-YuiLZcfL0w.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLT1S6Ydzxkz-r6wV8ovFYnckQllTG5jo6vuEj1olQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
@@ -334,7 +334,7 @@ permalink: index.html
 
 #### No.40 P丸様。
 
-![](http://www.tuber-town.com/image/channel-large/UCLqCmbd6bgcLaBVz3aA-68A.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLQQ5umEYgnhm4d3XiVst03nmalI_mQm2Z6JCUdmEQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
