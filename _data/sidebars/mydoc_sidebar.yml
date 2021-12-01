@@ -2,12 +2,12 @@
 
 entries:
 - title: sidebar
-  product: 長者番付YT２０２１
+  product: 長者番付YT
   version: 2021
   folders:
 
 #          
-  - title: ベスト長者番付
+  - title: ベスト長者番付YT
     output: web, pdf
     folderitems:
 
