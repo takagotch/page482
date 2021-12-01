@@ -1,5 +1,5 @@
 ---
-title: 約1年でYouTube登録者1000万人突破 : Junya.じゅんや
+title: 約1年でYouTube登録者1000万人突破 Junya.じゅんや
 tags: [getting_started, troubleshooting]
 keywords:
 summary: "TikTokフォロワー数日本一のじゅんや、約1年でYouTube登録者1000万人突破「次は2000万!!!」"
