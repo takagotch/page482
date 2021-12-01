@@ -5,7 +5,7 @@ mydoc_shuffle.html
 
 ##### https://takagotch.github.io/page482/tag_getting_started.html
 ##### https://takagotch.github.io/page482/tag_publishing.html
-tag_getting_started.html
+tag_getting_started.html <br/>
 tag_publishing.html
 
 
