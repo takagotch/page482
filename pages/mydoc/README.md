@@ -1,4 +1,17 @@
 
+
+##### https://takagotch.github.io/page482/mydoc_shuffle.html 
+mydoc_shuffle.html
+
+##### https://takagotch.github.io/page482/tag_getting_started.html
+##### https://takagotch.github.io/page482/tag_publishing.html
+tag_getting_started.html
+tag_publishing.html
+
+
+
+
+```
 ### レイアウト | 基本１（toc見出し、テーブル、Note、Summary、、、）
 index.md
 
@@ -15,6 +28,7 @@ mydoc_kb_layout.html
 mydoc_glossary.html
 #### アコーディオンドロップダウンリスト　|　スペシャルパーツ
 mydoc_faq_layout.html
+```
 
 ```
 ```
