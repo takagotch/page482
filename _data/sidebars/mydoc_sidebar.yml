@@ -2,10 +2,10 @@
 
 entries:
 - title: sidebar
-  product: 長者番付YT
+  product: 日本長者番付YT
   version: 2021
   folders:
-  - title: 年収ランキング
+  - title: 富豪50人、今年の顔ぶれは？ #年収ランキング
     output: web, pdf
     folderitems:
     
