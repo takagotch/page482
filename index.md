@@ -39,12 +39,9 @@ permalink: index.html
 |  33億511万6308回  |  373万人  |  3億9661万3957円円  |
 
 {% include note.html content="
-If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
-<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
-If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
-<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
-I also have a site on 
-<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+5億3620万6895円 (暫定) <br/>
+<a alt='Sagawa /さがわ - YouTube' href='https://www.youtube.com/channel/UCWaOde99oeUVoXbIj3SNu9g'>Sagawa /さがわ - YouTube</a>.<br/>
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
 " %}
 
 
@@ -56,12 +53,9 @@ I also have a site on
 |  42億7744万9913回  |  217万人  |  2億5648万9894円  |
 
 {% include note.html content="
-If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
-<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
-If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
-<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
-I also have a site on 
-<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+3億477万5896円 (暫定) <br/>
+<a alt='Maizen - YouTube' href='https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ'>まいぜんシスターズ Maizen - YouTube</a>.<br/>
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
 " %}
 
 
