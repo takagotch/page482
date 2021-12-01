@@ -24,6 +24,7 @@ permalink: index.html
 |  57億8242万6288回  |  1130万人　|  6億9389万1154円  |
 
 {% include note.html content="
+6億9439万2074円 (推定年収)
 <a alt='Junya Official Channel - YouTube' href='https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg'>Junya Official Channel - YouTube</a>.
 <a href='https://www.tiktok.com/@junya1gou?'>　junya1gou - TikTok</a>.
 " %}
