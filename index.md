@@ -24,12 +24,8 @@ permalink: index.html
 |  57億8242万6288回  |  1130万人　|  6億9389万1154円  |
 
 {% include note.html content="
-If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
-<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
-If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
-<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
-I also have a site on 
-<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+<a alt='Junya Official Channel - YouTube' href='https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg'>Junya Official Channel - YouTube</a>.
+<a href='https://www.tiktok.com/@junya1gou?'>　junya1gou - TikTok</a>.
 " %}
 
 
@@ -41,9 +37,14 @@ I also have a site on
 |  33億511万6308回  |  373万人  |  3億9661万3957円円  |
 
 {% include note.html content="
-<a alt='Junya Official Channel - YouTube' href='https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg'>Junya Official Channel - YouTube</a>.
-<a href='https://www.tiktok.com/@junya1gou?'>　junya1gou - TikTok</a>.
+If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
+<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
+If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
+<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
+I also have a site on 
+<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
 " %}
+
 
 ### No.3 まいぜんシスターズ　👑👑👑
 ![](https://yt3.ggpht.com/G7RTgeS3hyhX69n8UuOs0BmE4f_CNarOdJIQUVU0X7xflqMSC7PimpCZOx-eQQwLoKwK6Fik=s176-c-k-c0x00ffffff-no-rj)
