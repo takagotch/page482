@@ -354,36 +354,36 @@ permalink: index.html
 
 ##### No.43 ボンボンTV
 
-![](http://www.tuber-town.com/image/channel-large/UC6VSFaHYbR-bhNer7DXxGNQ.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLTStn58PiApc2DO20aDIH7aGcSoRLSYKVfx57KvdA=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.44 CANACANA family
 
-![](http://www.tuber-town.com/image/channel-large/UCPrjycK4eiQhUw2PnVIq7Gg.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLRbbZOoIdp2YpWFIYM9-YXQpn53j_bFTqYpfDfeFg=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.45 プリンセス姫スイートＴＶ Princess Hime Suite TV
 
-![](http://www.tuber-town.com/image/channel-large/UCHkm57ZjExicHc630M2xJ-Q.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLSTwaYE8yk_AReBGnu7iXFH9LUAa_rGHc-ZqNLh6A=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.46 (パーソル パ・リーグTV公式)PacificLeagueTV
 
-![](http://www.tuber-town.com/image/channel-large/UC0v-pxTo1XamIDE-f__Ad0Q.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLT30kYzVVeW6NnYOg9-nkt1I77uwkw4CM_mlmbNnA=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.47 LiSA Official YouTube
 
-![](http://www.tuber-town.com/image/channel-large/UCqEfdEvLG5oQWNYlDQrGlKw.jpg)
+![](https://yt3.ggpht.com/ytc/AKedOLRdJudXwOxIci9KVnuis3OmG4pqaqK52i4GaQcqYQ=s176-c-k-c0x00ffffff-no-rj)
 
 ##### No.48 はねまりチャンネル・HANEMARI Channel
 
-![](http://www.tuber-town.com/image/channel-large/UCPzqjzrvmSA9dVydRdAX6Xg.jpg)
+![](https://yt3.ggpht.com/_5gYqRvaqe7GfPDJ5kHiJpVP6et_Qwht-i75tb5ciSMVi1LVZRHdTwpgK9GH_MM07AHoIR1VJA=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.49 岡野タケシ弁護士【アトム法律事務所】
 
-![](http://www.tuber-town.com/image/channel-large/UCl8E6NsjN979gbMBdztF48g.jpg)
+![](https://yt3.ggpht.com/s1EjAYyhFmQIQH4xN9MEeUtVku-8xvIpOKg3eIC-LsUcb94121QazNEn7U8gSCD2mIRfg_nT4DU=s176-c-k-c0x00ffffff-no-rj)
 
 
 ##### No.50 ひろゆきの部屋【ひろゆき, hiroyuki】切り抜き
