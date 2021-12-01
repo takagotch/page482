@@ -68,7 +68,7 @@ permalink: index.html
 
 {% include note.html content="
 3億563万8574円 (暫定) <br/>
-<a alt='Fischer's-フィッシャーズ - YouTube' href='https://www.youtube.com/channel/UCibEhpu5HP45-w7Bq1ZIulw'>Fischer's-フィッシャーズ - YouTube</a>.<br/>
+<a alt='Fischers-フィッシャーズ - YouTube' href='https://www.youtube.com/channel/UCibEhpu5HP45-w7Bq1ZIulw'>Fischer's-フィッシャーズ - YouTube</a>.<br/>
 <a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
 " %}
 
