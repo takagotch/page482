@@ -40,7 +40,7 @@ BitStarが発表した、YouTubeを対象とする2020年インフルエンサ�
 
 [エレベーターっていろんな使い方あんねんな](https://www.tiktok.com/@junya1gou/video/6644511797606878465?_d=secCgwIARCbDRjEFSADKAESPgo8S5eGIcllUVIrbtFZDSLBPb8sZWjpDHUoqqgbiaK6TUUrSIiahaPcz%2F1uo913RvC7lhm%2F5YYKB1VC3UGVGgA%3D&language=ja&mid=6644511817420770049&preview_pb=0&region=JP&sec_user_id=MS4wLjABAAAAw_XixHH84Gi83QGodohem7k3oxAvNregtQ7ibPKn1SJpNQqVO8GKPnUpVwcv8VZJ&share_app_id=1180&share_item_id=6644511797606878465&share_link_id=8ae3c244-b289-4b72-8b9e-b9e47634532b&source=h5_t&timestamp=1635325355&u_code=d0i0jhik21agam&user_id=6569658898264702978&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1)
 [じゅんや、YouTubeチャンネル登録者数1000万人達成 開設から394日の圧倒的日本最速記録](https://mdpr.jp/news/detail/2814537)
-[github-pages](https://rubygems.org/gems/github-pages) 
+[日本一のTikTokerになった！！！次は世界一のTikTokerに俺はなる！！！](https://www.tiktok.com/@junya1gou/video/6822992123961298178?_d=secCgwIARCbDRjEFSADKAESPgo8g3lUhiT93WdiS2arMX%2Fs6BEU%2FPsvF9brV9oh6oTxbU93NbPxzgMA4somF1C5KVakMs%2FP49TalT3lPfLuGgA%3D&language=ja&mid=6822992149739473666&preview_pb=0&region=JP&sec_user_id=MS4wLjABAAAAw_XixHH84Gi83QGodohem7k3oxAvNregtQ7ibPKn1SJpNQqVO8GKPnUpVwcv8VZJ&share_app_id=1180&share_item_id=6822992123961298178&share_link_id=1b85d044-80e5-44d5-9c66-782913dcf7e1&source=h5_t&timestamp=1635855377&u_code=d0i0jhik21agam&user_id=6569658898264702978&utm_campaign=client_share&utm_medium=android&utm_source=copy&_r=1) 
 
 [Bundler.io](http://bundler.io/):
 
