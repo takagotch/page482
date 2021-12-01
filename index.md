@@ -67,12 +67,9 @@ permalink: index.html
 |  128億6361万7381回  |  696万人  |  2億5377万244円  |
 
 {% include note.html content="
-If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
-<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
-If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
-<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
-I also have a site on 
-<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+3億563万8574円 (暫定) <br/>
+<a alt='Fischer's-フィッシャーズ - YouTube' href='https://www.youtube.com/channel/UCibEhpu5HP45-w7Bq1ZIulw'>Fischer's-フィッシャーズ - YouTube</a>.<br/>
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
 " %}
 
 ### No.5 東海オンエア　📛
@@ -83,12 +80,9 @@ I also have a site on
 |  93億4222万8696回  |  613万人  |  2億4775万6197円  |
 
 {% include note.html content="
-If you're cloning this theme, you're probably writing documentation of some kind. I have a blog on technical writing here called 
-<a alt='technical writing blog' href='http://idratherbewriting.com'>　I'd Rather Be Writing　</a>.
-If you'd like to stay updated with the latest trends, best practices, and other methods for writing documentation, consider 
-<a href='https://tinyletter.com/tomjoht'>　subscribing　</a>.
-I also have a site on 
-<a href='http://idratherbewriting.com/learnapidoc'>writing API documentation</a>.
+2億9723万8313円 (暫定) <br/>
+<a alt='東海オンエア - YouTube' href='https://www.youtube.com/channel/UCutJqz56653xV2wwSvut_hQ'>東海オンエア - YouTube</a>.<br/>
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
 " %}
 
 ### No.6 HIMAWARIちゃんねる　📛
