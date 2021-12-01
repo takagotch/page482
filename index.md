@@ -278,18 +278,18 @@ permalink: index.html
 |  1億4161万5499回  |  224万人  |  8335万1992円  |
 
 
-#### No.34 ウォーターチャレンジ
+#### No.34 Ado
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLSuKeaRMl8BQi69wxoCqH-GvJKf_6JAOlisyKpxRw=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
 |  7億9519万4000回  |  89万4000人  |  8272万4061円  |
 
 
-#### No.35 Ado
+##### No.35 LiSA Official YouTube
 
-![](https://yt3.ggpht.com/ytc/AKedOLSuKeaRMl8BQi69wxoCqH-GvJKf_6JAOlisyKpxRw=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLRdJudXwOxIci9KVnuis3OmG4pqaqK52i4GaQcqYQ=s176-c-k-c0x00ffffff-no-rj)
 
 |  再生回数  |  チャンネル登録者数  |  推定年収  |
 | ---- | ---- | ---- |
@@ -372,19 +372,18 @@ permalink: index.html
 ![](https://yt3.ggpht.com/ytc/AKedOLT30kYzVVeW6NnYOg9-nkt1I77uwkw4CM_mlmbNnA=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.47 LiSA Official YouTube
-
-![](https://yt3.ggpht.com/ytc/AKedOLRdJudXwOxIci9KVnuis3OmG4pqaqK52i4GaQcqYQ=s176-c-k-c0x00ffffff-no-rj)
-
-##### No.48 はねまりチャンネル・HANEMARI Channel
+##### No.47 はねまりチャンネル・HANEMARI Channel
 
 ![](https://yt3.ggpht.com/_5gYqRvaqe7GfPDJ5kHiJpVP6et_Qwht-i75tb5ciSMVi1LVZRHdTwpgK9GH_MM07AHoIR1VJA=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.49 岡野タケシ弁護士【アトム法律事務所】
+##### No.48 岡野タケシ弁護士【アトム法律事務所】
 
 ![](https://yt3.ggpht.com/s1EjAYyhFmQIQH4xN9MEeUtVku-8xvIpOKg3eIC-LsUcb94121QazNEn7U8gSCD2mIRfg_nT4DU=s176-c-k-c0x00ffffff-no-rj)
 
+#### No.49 ウォーターチャレンジ
+
+![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
 ##### No.50 ひろゆきの部屋【ひろゆき, hiroyuki】切り抜き
 
