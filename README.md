@@ -18,7 +18,7 @@ https://docs.google.com/spreadsheets/d/15nAYJ1smospKcf5zz41b5lF7WlDxUInO2-YGpkPn
 
 
 ```
-タレント名鑑　データ入力　name,imgURL
+タレント名鑑(ALL)　データ入力　name,imgURL
 コメントCommento
 掲示板　
 
