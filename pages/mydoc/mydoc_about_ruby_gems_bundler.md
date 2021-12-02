@@ -49,7 +49,7 @@ BitStarが発表した、YouTubeを対象とする2020年インフルエンサ�
 
 [Chi compie gli anni il 28 novembre? Scopriamo tutti i “compleanni famosi” di oggi (c’è anche Aimee Garcia)](https://www.webboh.it/compleanni-28-novembre/)
 
-[NEW Junya1gou Funny TikTok Compilation 😂😂 | Junya Legend tiktoks](https://eveningstandard.in/new-junya1gou-funny-tiktok-compilation-%F0%9F%98%82%F0%9F%98%82-junya-legend-tiktoks/)
+[NEW Junya1gou Funny TikTok Compilation  | Junya Legend tiktoks](https://eveningstandard.in/new-junya1gou-funny-tiktok-compilation-%F0%9F%98%82%F0%9F%98%82-junya-legend-tiktoks/)
 
 [Junya1Gou (TikTok Star) Bio Wiki Age Height Weight Wife Family Girlfriend Net Worth & More](https://nitbuz.com/junya1gou-bio/)
 
