@@ -4,7 +4,7 @@ tags: [getting_started, troubleshooting]
 keywords:
 summary: "TikTokフォロワー数日本一のじゅんや、約1年でYouTube登録者1000万人突破「次は2000万!!!」"
 sidebar: mydoc_sidebar
-permalink: mydoc_number_1_1.md
+permalink: mydoc_number_junya.md
 folder: mydoc
 ---
 
