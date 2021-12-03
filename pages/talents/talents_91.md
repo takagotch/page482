@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.91 ハクマイン
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLR-ayeKbSzRgDaiwv_bwhHVmyq8ZcEGEIYIJNfKFw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
