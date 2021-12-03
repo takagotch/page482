@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: コロネおじさん / Uncle Corone
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10048 タキロン  
+##### No.10048 コロネおじさん / Uncle Corone  
 
-![](htt
+![](https://yt3.ggpht.com/ytc/AKedOLTrrLXBhXjonHqbcRrIzvRMF2iMXS2MHI7pxB618g=s176-c-k-c0x00ffffff-no-rj)
 
 
 
