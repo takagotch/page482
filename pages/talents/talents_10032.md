@@ -1,5 +1,5 @@
 ---
-title: タキロン 
+title: しばなんチャンネル 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10032 タキロン  
+##### No.10032 しばなんチャンネル  
 
-![](http
+![](https://yt3.ggpht.com/ytc/AKedOLRJwhmr9qnFvsLTQyir5G2uOrcVnGT5XaB9B8BX=s176-c-k-c0x00ffffff-no-rj)
 
 
 
