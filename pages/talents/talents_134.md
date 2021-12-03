@@ -10,7 +10,8 @@ folder: talents
 
 ##### No.134 GundamInfo
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLRVpHvF-unsqJGK7ry2NhEZgK-lWKosH4UFYT3yKw=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
