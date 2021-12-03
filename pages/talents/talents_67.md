@@ -3,14 +3,15 @@ title: 【公式】日テレNEWS
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_67.html
 folder: talents
 ---
 
 
-##### No.48 【公式】日テレNEWS
+##### No.67 【公式】日テレNEWS
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQLKKfyJgyfvG6_IPYFaPdK6SUUgx0UhSpK2KLy=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
