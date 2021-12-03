@@ -1,5 +1,5 @@
 ---
-title: ウォーターチャレンジ
+title: Quynh Tran JP & Family - Cuộc sống ở Nhật
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,7 +8,7 @@ folder: talents
 ---
 
 
-##### No.95 ウォーターチャレンジ
+##### No.95 Quynh Tran JP & Family - Cuộc sống ở Nhật
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
