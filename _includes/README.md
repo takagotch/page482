@@ -15,6 +15,17 @@ http://bootstrap3.cyberlab.info/components/labels.html
 
 <img src="{{ "images/company_logo.png" }}" alt="Company logo"/>
 
+
+
+
+
+
+            <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> 
+
+		    
+	      <img src="{{ "images/yt8.png" }}" alt="Top Nav Title IMG" width="100" height="25"/>
+              {{site.topnav_title}}
+            </span></a>
 ```
 
 
