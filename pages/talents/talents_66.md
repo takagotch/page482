@@ -3,15 +3,14 @@ title: NHK
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_66.html
 folder: talents
 ---
 
 
-##### No.48 NHK
+##### No.66 NHK
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRxLJhEQhdHWFbJ8LlJdeUdNrvjfnuOPAlE72uGwj0=s176-c-k-c0x00ffffff-no-rj)
 
 
 
