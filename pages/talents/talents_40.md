@@ -1,5 +1,5 @@
 ---
-title: P丸様。
+title: Official髭男dism
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,10 +8,10 @@ folder: talents
 ---
 
 
+#### No.40 Official髭男dism
 
-#### No.40 P丸様。
+![](https://yt3.ggpht.com/ytc/AKedOLSnU6SiJooMecPRP6XT7utSMMb-swf6VlMsF-cEZA=s176-c-k-c0x00ffffff-no-rj)
 
-![](https://yt3.ggpht.com/ytc/AKedOLQQ5umEYgnhm4d3XiVst03nmalI_mQm2Z6JCUdmEQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
