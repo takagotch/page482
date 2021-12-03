@@ -10,7 +10,8 @@ folder: talents
 
 ##### No.130 ONE OK ROCK
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQCMSq8Crhige2cGo5DEct77MV4eAi5r0niWiWLBA=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
