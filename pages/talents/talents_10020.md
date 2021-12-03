@@ -1,18 +1,17 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: UNIVERSAL MUSIC JAPAN 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10020.html
 folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.10020 UNIVERSAL MUSIC JAPAN 
+  
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLQxkuD5czSwUp24J4dypWQWJGFabE5yvnbFVvm2hA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
