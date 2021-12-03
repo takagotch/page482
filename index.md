@@ -1,7 +1,7 @@
 ---
 title: "Youtuberランキング2021"
 keywords: sample homepage
-tags: [getting_started]
+tags: [home]
 sidebar: mydoc_sidebar
 permalink: index.html
 年収ランキング: Youtuber 年収ランキングサイト「カウントダウンYT」　2021
