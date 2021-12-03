@@ -10,7 +10,8 @@ folder: talents
 
 ##### No.123 おきゃんチャンネル
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQ-HINBHQN4joBpLKCf2-EsecVHbmQ3WnLH5kJL=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
