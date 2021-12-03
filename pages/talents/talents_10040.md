@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Ryo Slime 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10040 タキロン  
+##### No.10040 Ryo Slime 
+  
 
-![](htt
+![](https://yt3.ggpht.com/ytc/AKedOLQ3dpSASQU79iDRy6gC-i_Fp_x00NqQi6VbGxSj4Q=s176-c-k-c0x00ffffff-no-rj)
 
 
 
