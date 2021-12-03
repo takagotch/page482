@@ -3,16 +3,14 @@ title: ヨルシカ / n-buna Official
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_65.html
 folder: talents
 ---
 
 
-##### No.48 ヨルシカ / n-buna Official
+##### No.65 ヨルシカ / n-buna Official
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLQIIrZ9Qz1WFuLw6YuOzENINQjv4Q5u7C7Ebylf=s176-c-k-c0x00ffffff-no-rj)
 
 
 
