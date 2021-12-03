@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.72 ヒューマンバグ大学_闇の漫画
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLTkFK9-tDbpZTvXr-hhc8g558cM9D8FZtZOHwjn=s176-c-k-c0x00ffffff-no-rj)
 
 
 
