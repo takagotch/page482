@@ -1,5 +1,5 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: HidaMari Cooking 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,10 +8,9 @@ folder: talents
 ---
 
 
-##### No.10019 タキロン Takilong Kids' Toys 
+##### No.10019 HidaMari Cooking 
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLQGiBgumvNO9EBcQPHq4Fzrt8n4wUBlyvtgYiy6=s176-c-k-c0x00ffffff-no-rj)
 
 
 
