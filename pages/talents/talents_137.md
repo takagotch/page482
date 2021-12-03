@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.137 たまごMammy
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLRv80mFDyIFfEkxgqaPkcl66_S6yc0Nq8kVgIUrTQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
