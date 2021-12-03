@@ -10,7 +10,9 @@ folder: talents
 
 ##### No.142 ぜるふぃー / ZELLFY
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQaA-yLSn_OqJd3fOcDp1Is5fe_kmBF_1_xvv9hSA=s176-c-k-c0x00ffffff-no-rj)
+
+
 
 
 
