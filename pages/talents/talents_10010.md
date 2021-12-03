@@ -1,5 +1,5 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: Travel Thirsty 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.1001 Travel Thirsty 
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLS4ui6xx5UkfioMN3LM5ISUDLL9FiV2wwYLpwtfWQ=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
