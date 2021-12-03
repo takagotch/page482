@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.127 takahashi taiyou
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLR900lneAbT7vcZR4Qjtn91fsIAAQ-1yI81_b9l=s176-c-k-c0x00ffffff-no-rj)
 
 
 
