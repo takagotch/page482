@@ -1,18 +1,16 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: タキロン
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10064.html
 folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.10064 タキロン  
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https
 
 
 
