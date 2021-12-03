@@ -10,7 +10,8 @@ folder: talents
 
 ##### No.122 Aimer Official YouTube Channel
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/dVt1VckrQvXTWK4avcc5yxF66WOLBcCnbZY9nlZHfBCywp2YA2vy9dlVecoiZKEgKSzb-33rcg=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
