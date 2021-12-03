@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.136 RADWIMPS
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLR1rGsbIMydsLq8kFpl1RSO1J6Fu5nNCkG8CFQupg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
