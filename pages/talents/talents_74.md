@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.74 ノッカーナアニメーション nokkana animation
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRLrcPsJ8ghvOAdMK2SZaEwPBmD9RecSSxAHnUt=s176-c-k-c0x00ffffff-no-rj)
 
 
 
