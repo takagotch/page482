@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.148 そるちゃんねる solchannel
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLSqjhWc6A3VhRyNnK0Lc_7f0ab2fz-3ZfKnRvzNHQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
