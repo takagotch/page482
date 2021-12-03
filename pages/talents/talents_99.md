@@ -10,10 +10,7 @@ folder: talents
 
 ##### No.99 老高與小茉 Mr & Mrs Gao
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
-
+![](https://yt3.ggpht.com/U6n1tM-bMbzyjnW3kIrs3Xdhcyxwri__7Ftm_lYuYBvPB1BRU-Z93Zvefc8TPzMUgJly4BKk=s176-c-k-c0x00ffffff-no-rj)
 
 
 
