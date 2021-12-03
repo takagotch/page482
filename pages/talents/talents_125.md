@@ -1,14 +1,14 @@
 ---
-title: ウォーターチャレンジ
+title: リトルエンジェル 日本語 - 童謡と子供の歌 - Little Angel
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_125.html
 folder: talents
 ---
 
 
-##### No.48 ウォーターチャレンジ
+##### No.125 リトルエンジェル 日本語 - 童謡と子供の歌 - Little Angel
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
