@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.87 笑顔のおもちゃ
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRYA1k7KQfslaSfcNfC1MmzlaDGaqquxgjouBGC=s176-c-k-c0x00ffffff-no-rj)
 
 
 
