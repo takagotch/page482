@@ -1,5 +1,5 @@
 ---
-title: タキロン 
+title: はじめしゃちょー2 (hajime)  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,10 +8,9 @@ folder: talents
 ---
 
 
-##### No.10036 タキロン  
+##### No.10036 はじめしゃちょー2 (hajime) 
 
-![](https:/
-
+![](https://yt3.ggpht.com/ytc/AKedOLRJPaEmxWQmXp1FknITe0zwWu5DbaFsDwSg50cuqA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
