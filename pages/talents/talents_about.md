@@ -3,7 +3,7 @@ title: タレント名鑑
 last_updated: July 1, 2021
 tags: [getting_started]
 summary: ""
-sidebar: mydoc_sidebar
+sidebar: talents_sidebar
 permalink: talents_about.html
 folder: talents
 ---
