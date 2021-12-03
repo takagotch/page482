@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.104 RiChannel
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLRk79mfqtfuuHfrp0pPWo8MDU8Pe5fYGRKTZoRakw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
