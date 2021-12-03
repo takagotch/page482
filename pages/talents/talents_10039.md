@@ -1,16 +1,16 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: Tsutomu Kajiya 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10039.html
 folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.10039 Tsutomu Kajiya  
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQrYat19HiEz5S_ydMJqpF13Q4mXlKpMyJ3DAdPmg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
