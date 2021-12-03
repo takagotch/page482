@@ -1,5 +1,5 @@
 ---
-title: FNNプライムオンライン
+title: ARASHI
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,10 +8,9 @@ folder: talents
 ---
 
 
-##### No.144 FNNプライムオンライン
+##### No.144 ARASHI
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLTrHCr-o1_G03azTDjkocuI4vGwBRpoeNUWtC6oew=s176-c-k-c0x00ffffff-no-rj)
 
 
 
