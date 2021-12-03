@@ -3,12 +3,12 @@ title: 進撃のミカ
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_145.html
 folder: talents
 ---
 
 
-##### No.48 進撃のミカ
+##### No.145 進撃のミカ
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
