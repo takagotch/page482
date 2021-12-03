@@ -1,5 +1,5 @@
 ---
-title: ウォーターチャレンジ
+title: JPAPA CHANNEL
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,12 +8,9 @@ folder: talents
 ---
 
 
-##### No.48 ウォーターチャレンジ
+##### No.48 JPAPA CHANNEL
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLQ8Th5cuFiD1fos7DmU6fK69duHpLv0sXK_PH442g=s176-c-k-c0x00ffffff-no-rj)
 
 
 
