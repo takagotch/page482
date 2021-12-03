@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.76 からめる
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/yrCWEVmxM0XGSZSaGxgMFt4mfdRGg0-kjBQK2ue3kJZWfI1DOcb8PQ_r5n94IfNW9UQkDlDUdA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
