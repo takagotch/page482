@@ -6,7 +6,7 @@ permalink: tag_talents.html
 sidebar: talents_sidebar
 folder: tags
 ---
-{% include taglogic.html %}
+{% include taglogic1.html %}
 
 {% include links.html %}
 
