@@ -1,16 +1,17 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: ブライアンチャンネル  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10037.html
 folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.10037 ブライアンチャンネル 
+  
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQxNV4Qd53SAA5jL6IeFnBzX1wzBRzRrEGOqXaZ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
