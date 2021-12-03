@@ -55,7 +55,7 @@ permalink: index.html
 {% include note.html content="
 3億477万5896円 (暫定) <br/>
 <a alt='Maizen - YouTube' href='https://www.youtube.com/channel/UCM3yhFc0-fBFuvqx1Vg2YNQ'>まいぜんシスターズ Maizen - YouTube</a>.<br/>
-<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
+<a alt='More info' href='https://takagotch.github.io/page482/talents_about.html'>もっと詳しく</a>.
 " %}
 
 
