@@ -3,7 +3,7 @@ title: SUSHI RAMEN【Riku】
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10014.html
 folder: talents
 ---
 
