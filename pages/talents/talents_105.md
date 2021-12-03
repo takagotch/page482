@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.105 チャンネルがーどまん Channel guard man
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRiaPYO2fD1l4DE4skIK6DIiwqhQ6pWPnkrJLpewQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
