@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.75 ここなっちゃん
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLS6V8Vvnbi1OPoPPi_WoO9KSzuM98m9UFVs-cxByQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
