@@ -14,12 +14,15 @@ http://bootstrap3.cyberlab.info/components/labels.html
  {{site.topnav_title}}
 
 <img src="{{ "images/company_logo.png" }}" alt="Company logo"/>
+```
 
 
 
 
-
-
+```page482/_includes/topnav.html
+<!-
+fa fa-home
+->
             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> 
 
 		    
