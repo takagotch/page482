@@ -10,6 +10,8 @@ http://bootstrap3.cyberlab.info/components/labels.html
 ```
 
 ``` topnav.html 
+11 -             <a class="fa fa-home fa-lg navbar-brand" href="index.html">&nbsp;<span class="projectTitle"> {{site.topnav_title}}</span></a>
+ {{site.topnav_title}}
 
 <img src="{{ "images/company_logo.png" }}" alt="Company logo"/>
 
