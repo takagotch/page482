@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.48 Nino's Home
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLRSAhIJ0TVvwlRjGlx-9f0SSvxW_hmun1WjBA9bBA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
