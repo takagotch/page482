@@ -268,8 +268,7 @@ permalink: index.html
 | ---- | ---- | ---- |
 |  25億2986万9943回  |  520万人  |  8405万2970円  |
 
-
-#### No.33 サメニンジャー
+#### No.32 サメニンジャー
 
 ![](https://yt3.ggpht.com/7dNNCdnRx09tBsTVOJvLNPr_p0yTUyIQfUCVvOnAD5KJ_HkcPxeFRb51AYX2YZlElHUjgqQYiA=s176-c-k-c0x00ffffff-no-rj)
 
@@ -278,7 +277,7 @@ permalink: index.html
 |  1億4161万5499回  |  224万人  |  8335万1992円  |
 
 
-#### No.34 Ado
+#### No.33 Ado
 
 ![](https://yt3.ggpht.com/ytc/AKedOLSuKeaRMl8BQi69wxoCqH-GvJKf_6JAOlisyKpxRw=s176-c-k-c0x00ffffff-no-rj)
 
@@ -287,7 +286,7 @@ permalink: index.html
 |  7億9519万4000回  |  89万4000人  |  8272万4061円  |
 
 
-#### No.35 LiSA Official YouTube
+#### No.34 LiSA Official YouTube
 
 ![](https://yt3.ggpht.com/ytc/AKedOLRdJudXwOxIci9KVnuis3OmG4pqaqK52i4GaQcqYQ=s176-c-k-c0x00ffffff-no-rj)
 
@@ -296,7 +295,7 @@ permalink: index.html
 |  7億1705万9178回  |  250万人  |  8240万1319円  |
 
 
-#### No.36 もちまる日記
+#### No.35 もちまる日記
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTQmfjnPCEIQzR238q7ZwcCvfxY4U7yjEdVGsrzLw=s176-c-k-c0x00ffffff-no-rj)
 
@@ -305,7 +304,7 @@ permalink: index.html
 |  8億4091万1508回  |  157万人  |  8167万9660円  |
 
 
-#### No.37 KahoSei Channel from Canada
+#### No.36 KahoSei Channel from Canada
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTeGAC69Fpti1U0qG3EoXhAEHtP7tiJ7cjkFDAymA=s176-c-k-c0x00ffffff-no-rj)
 
@@ -314,7 +313,7 @@ permalink: index.html
 |  20億7021万5853回  |  108万人  |  8122万507円  |
 
 
-#### No.38 oricon
+#### No.37 oricon
 
 ![](https://yt3.ggpht.com/ytc/AKedOLSRB5h-zX5Hpf-8pKM1O73wjYFQEfc-ovCu8Vytyw=s176-c-k-c0x00ffffff-no-rj)
 
@@ -323,7 +322,7 @@ permalink: index.html
 |  25億2434万1548回  |  148万人  |  8020万2483円  |
 
 
-#### No.39 KUN
+#### No.38 KUN
 
 ![](https://yt3.ggpht.com/ytc/AKedOLT1S6Ydzxkz-r6wV8ovFYnckQllTG5jo6vuEj1olQ=s176-c-k-c0x00ffffff-no-rj)
 
@@ -332,7 +331,7 @@ permalink: index.html
 |  22億2003万9333回  |  133万人  |  8014万5090円  |
 
 
-#### No.40 P丸様。
+#### No.39 P丸様。
 
 ![](https://yt3.ggpht.com/ytc/AKedOLQQ5umEYgnhm4d3XiVst03nmalI_mQm2Z6JCUdmEQ=s176-c-k-c0x00ffffff-no-rj)
 
@@ -341,53 +340,58 @@ permalink: index.html
 |  13億2997万7797回  |  219万人  |  7951万3946円  |
 
 
-##### No.41 Official髭男dism
+#### No.40 Official髭男dism
 
 ![](https://yt3.ggpht.com/ytc/AKedOLSnU6SiJooMecPRP6XT7utSMMb-swf6VlMsF-cEZA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
-##### No.42 牛乳を飲みながら見てはいけない
+##### No.41 牛乳を飲みながら見てはいけない
 
 ![](https://yt3.ggpht.com/ytc/AKedOLQHsAR_mRo2ZiqdhcuQCpDMNl8EfdM-5NZ3rkM6=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.43 ボンボンTV
+##### No.42 ボンボンTV
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTStn58PiApc2DO20aDIH7aGcSoRLSYKVfx57KvdA=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.44 CANACANA family
+##### No.43 CANACANA family
 
 ![](https://yt3.ggpht.com/ytc/AKedOLRbbZOoIdp2YpWFIYM9-YXQpn53j_bFTqYpfDfeFg=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.45 プリンセス姫スイートＴＶ Princess Hime Suite TV
+##### No.44 プリンセス姫スイートＴＶ Princess Hime Suite TV
 
 ![](https://yt3.ggpht.com/ytc/AKedOLSTwaYE8yk_AReBGnu7iXFH9LUAa_rGHc-ZqNLh6A=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.46 (パーソル パ・リーグTV公式)PacificLeagueTV
+##### No.45 (パーソル パ・リーグTV公式)PacificLeagueTV
 
 ![](https://yt3.ggpht.com/ytc/AKedOLT30kYzVVeW6NnYOg9-nkt1I77uwkw4CM_mlmbNnA=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.47 はねまりチャンネル・HANEMARI Channel
+##### No.46 はねまりチャンネル・HANEMARI Channel
 
 ![](https://yt3.ggpht.com/_5gYqRvaqe7GfPDJ5kHiJpVP6et_Qwht-i75tb5ciSMVi1LVZRHdTwpgK9GH_MM07AHoIR1VJA=s176-c-k-c0x00ffffff-no-rj)
 
 
-##### No.48 岡野タケシ弁護士【アトム法律事務所】
+##### No.47 岡野タケシ弁護士【アトム法律事務所】
 
 ![](https://yt3.ggpht.com/s1EjAYyhFmQIQH4xN9MEeUtVku-8xvIpOKg3eIC-LsUcb94121QazNEn7U8gSCD2mIRfg_nT4DU=s176-c-k-c0x00ffffff-no-rj)
 
-##### No.49 ウォーターチャレンジ
+##### No.48 ウォーターチャレンジ
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
-##### No.50 ひろゆきの部屋【ひろゆき, hiroyuki】切り抜き
+##### No.49 ひろゆきの部屋【ひろゆき, hiroyuki】切り抜き
 
 ![](https://yt3.ggpht.com/67DAFgypBe1LbBPuDfbT7e9xnjMx3X4WLIXcqoKigoCaIiy1sLki_Neqj7beowlOYv7VGeercw=s176-c-k-c0x00ffffff-no-rj)
+
+
+##### No.49 NHK
+
+![](https://yt3.ggpht.com/ytc/AKedOLRxLJhEQhdHWFbJ8LlJdeUdNrvjfnuOPAlE72uGwj0=s176-c-k-c0x00ffffff-no-rj)
 
 
 
