@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.140 hololive ホロライブ - VTuber Group
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLTj0OSWM9TvPy4e8v1_o99OtP3Bg7FXthdkgr2bCQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
