@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.111 20sarasa（にーさら）
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLQsR7ieOipnGHnEKEGX7QZu9xTFhJH6aBOUqSBkMg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
