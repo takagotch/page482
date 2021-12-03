@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.86 Marble ASMR healing
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLSdXpk4gY1fLbu62hIRhPX5wnpdkxb7Cdgm2q15=s176-c-k-c0x00ffffff-no-rj)
 
 
 
