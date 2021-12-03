@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.81 アニプレックス YouTube チャンネル
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLQtvPRtVqed-KHQ9xvjrADPXNr05QCRB7GjyIJu=s176-c-k-c0x00ffffff-no-rj)
 
 
 
