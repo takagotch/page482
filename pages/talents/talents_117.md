@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.117 レトルト
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLTahfK03H4Hd5cZ-ZauWv_lujyfhwB2DTIrR9TdJA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
