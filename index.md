@@ -27,7 +27,7 @@ permalink: index.html
 6億9439万2074円 (暫定) <br/>
 <a alt='Junya Official Channel - YouTube' href='https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg'>Junya Official Channel - YouTube</a>.<br/>
 <a href='https://www.tiktok.com/@junya1gou?'>　junya1gou - TikTok</a>.<br/>
-<a alt='More info' href='https://takagotch.github.io/page482/mydoc_about_ruby_gems_etc.html'>もっと詳しく</a>.
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_number_1-1.md'>もっと詳しく</a>.
 " %}
 
 
