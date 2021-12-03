@@ -1,7 +1,7 @@
 ---
 title: "タレント名鑑YT"
 search: exclude
-tagName: mobile
+tagName: talents
 permalink: tag_talents.html
 sidebar: talents_sidebar
 folder: tags
