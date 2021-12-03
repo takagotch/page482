@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.98 桐崎栄二.きりざきえいじ
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRQuHev0vVFbzZjblQhQLF3vKHxI-mrPRhVEM4QXA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
