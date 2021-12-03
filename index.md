@@ -27,7 +27,7 @@ permalink: index.html
 6億9439万2074円 (暫定) <br/>
 <a alt='Junya Official Channel - YouTube' href='https://www.youtube.com/channel/UCjp_3PEaOau_nT_3vnqKIvg'>Junya Official Channel - YouTube</a>.<br/>
 <a href='https://www.tiktok.com/@junya1gou?'>　junya1gou - TikTok</a>.<br/>
-<a alt='More info' href='https://takagotch.github.io/page482/mydoc_number_1_1.md'>もっと詳しく</a>.
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_number_1_1.html'>もっと詳しく</a>.
 " %}
 
 
@@ -41,7 +41,7 @@ permalink: index.html
 {% include note.html content="
 5億3620万6895円 (暫定) <br/>
 <a alt='Sagawa /さがわ - YouTube' href='https://www.youtube.com/channel/UCWaOde99oeUVoXbIj3SNu9g'>Sagawa /さがわ - YouTube</a>.<br/>
-<a alt='More info' href='https://takagotch.github.io/page482/mydoc_number_junya.md'>もっと詳しく</a>.
+<a alt='More info' href='https://takagotch.github.io/page482/mydoc_number_junya.html'>もっと詳しく</a>.
 " %}
 
 
