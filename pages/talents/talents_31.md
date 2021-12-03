@@ -8,10 +8,8 @@ folder: talents
 ---
 
 
-#### No.30 mania japansong
-![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
-
-
+#### No.31 mania japansong
+![](https://yt3.ggpht.com/ytc/AKedOLSBckui12wnFm3mLVji1AGJeZtD4f5JIWMj8GU5=s176-c-k-c0x00ffffff-no-rj)
 
 
 
