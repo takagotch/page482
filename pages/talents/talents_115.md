@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.115 SaeSana World / さえさなワールド
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/xWLXE7_LjwQ-EtcmHlCSgtt0aAcNtizlNHq7nsJYK0bmKyjVKXepKDDcTMM4dTxeCY1Yu7L4g9U=s176-c-k-c0x00ffffff-no-rj)
 
 
 
