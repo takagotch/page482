@@ -10,7 +10,8 @@ folder: talents
 
 ##### No.133 スマイリー
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLRJIS4m4-NQyw2ooYgaqcR6n0V68uM2di07AO8o=s176-c-k-c0x00ffffff-no-rj)
+
 
 
 
