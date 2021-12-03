@@ -3,14 +3,14 @@ title: Superfly
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_68.html
 folder: talents
 ---
 
 
 ##### No.48 Superfly
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLR4Xl_k-vzDCti3Vy9rUKyLKWGRGZ3iFbimDlzM=s176-c-k-c0x00ffffff-no-rj)
 
 
 
