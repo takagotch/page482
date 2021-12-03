@@ -1,5 +1,5 @@
 ---
-title: タキロン 
+title: れーと先生RATE VFX 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10021 タキロン  
+##### No.10021 れーと先生RATE VFX 
+  
 
-![](h
+![](https://yt3.ggpht.com/ytc/AKedOLSiN056lU1no5KIwTya0k5leFtrZAcKM_oCSj6_aQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
