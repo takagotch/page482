@@ -11,8 +11,7 @@ folder: talents
 ##### No.97 ポケるんTV
 
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRZruvWU-3rBCq47aWjziNca6p7bZ6q4qgZ3UrgOw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
