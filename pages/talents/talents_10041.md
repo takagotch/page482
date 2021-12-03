@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: ５分でできる DIY 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10041 タキロン  
+##### No.10041 ５分でできる DIY 
+  
 
-![](htt
+![](https://yt3.ggpht.com/ytc/AKedOLTsHWH7tWfVftlfhr0D9AsLmpvU5nY-d5YzhLCv=s176-c-k-c0x00ffffff-no-rj)
 
 
 
