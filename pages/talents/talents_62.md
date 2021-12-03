@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.48 れじぇくん
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLSkhHPORrlwteYfwjm0Dty7W3O-8kRCDCX9H5wJ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
