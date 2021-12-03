@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.116 モナ・リザの戯言
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLThBkX_JAVx85nIqTDbDVyFJNAp6gNS441lR4RM=s176-c-k-c0x00ffffff-no-rj)
 
 
 
