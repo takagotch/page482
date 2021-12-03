@@ -3,12 +3,12 @@ title: キリン【考察系youtuber】
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_147.html
 folder: talents
 ---
 
 
-##### No.48 キリン【考察系youtuber】
+##### No.147 キリン【考察系youtuber】
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
