@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.89 カジサック KAJISAC
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLQyZE49LeKqIM_cJVGtyTvvdIcbE5riHqeLsjeD=s176-c-k-c0x00ffffff-no-rj)
 
 
 
