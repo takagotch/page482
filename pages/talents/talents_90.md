@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.90 東海オンエアの控え室
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLQ29IomoYshW1g285mPxgIBpppmhMdqHcUfIO7k6w=s176-c-k-c0x00ffffff-no-rj)
 
 
 
