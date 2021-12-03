@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-#### No.30 サメニンジャー
+#### No.32 サメニンジャー
 
-![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/7dNNCdnRx09tBsTVOJvLNPr_p0yTUyIQfUCVvOnAD5KJ_HkcPxeFRb51AYX2YZlElHUjgqQYiA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
