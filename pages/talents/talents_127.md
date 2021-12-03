@@ -1,5 +1,5 @@
 ---
-title: ウォーターチャレンジ
+title: takahashi taiyou
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,7 +8,7 @@ folder: talents
 ---
 
 
-##### No.127 ウォーターチャレンジ
+##### No.127 takahashi taiyou
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
