@@ -10,9 +10,7 @@ folder: talents
 
 ##### No.114 ふうはや
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
-
+![](https://yt3.ggpht.com/ytc/AKedOLTg11TQ_Dl1pp_sCMdcXxK5vtRSjduIEaZ1GKyNog=s176-c-k-c0x00ffffff-no-rj)
 
 
 
