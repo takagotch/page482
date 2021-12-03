@@ -3,7 +3,7 @@ title: THE FIRST TAKE
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_15.html
+permalink: talents_5.html
 folder: talents
 ---
 
