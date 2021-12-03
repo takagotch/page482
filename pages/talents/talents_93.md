@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.93 テレ東BIZ
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLT2HE9rwUcsxOYKzNqv1DpJ_-FV6ESAQrcwxktjww=s176-c-k-c0x00ffffff-no-rj)
 
 
 
