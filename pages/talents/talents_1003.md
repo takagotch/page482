@@ -1,5 +1,5 @@
 ---
-title: タキロン 
+title: enakimura 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.1001 タキロン  
+##### No.1003 enakimura  
 
-![](https:/
+![](https://yt3.ggpht.com/ytc/AKedOLSlES_bjVYijZSp1weZhybkjYQDBn4Ub05p8zusUw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
