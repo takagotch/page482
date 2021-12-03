@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.101 牛沢
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLTbgBiVp09zqzG1YfgneGHj5uQQIyG_ks5a27C7=s176-c-k-c0x00ffffff-no-rj)
 
 
 
