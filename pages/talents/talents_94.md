@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.94 書道家 東宮たくみ
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLRYPZEd9LqKbY5l5BPFqiF6e9YislCDIG1tjMshCg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
