@@ -1,17 +1,17 @@
 ---
-title: タキロン Takilong Kids' Toys 
+title: メンタリスト DaiGo 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10049.html
 folder: talents
 ---
 
 
-##### No.1001 タキロン Takilong Kids' Toys 
+##### No.10049 メンタリスト DaiGo 
+  
 
-![](https://yt3.ggpht.com/ytc/AKedOLTN1KTo7eCXnEsdQTU6YntRJCIqz9PSXthuRWQCnQ=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLThhbLaIZ-54acS-GgBPPTDnXaCqgCfKYrZjqVVXg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
