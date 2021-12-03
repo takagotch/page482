@@ -32,6 +32,12 @@ https://docs.google.com/spreadsheets/d/15nAYJ1smospKcf5zz41b5lF7WlDxUInO2-YGpkPn
 ```
 
 ```
+レイアウト　4種
+・基本index.mdスタイル
+・シャッフルスタイル
+・タグテーブルスタイル
+・プロダクトスタイル
+
 ```
 
 
