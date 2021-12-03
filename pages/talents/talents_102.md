@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.102 Marble Station ASMR
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLS4l06eSWNbyMD6eq4245xbrZMIjtfbgm_8G4gl=s176-c-k-c0x00ffffff-no-rj)
 
 
 
