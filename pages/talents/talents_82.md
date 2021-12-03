@@ -1,5 +1,5 @@
 ---
-title: ウォーターチャレンジ
+title: アニプレックス YouTube チャンネル
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,7 +8,7 @@ folder: talents
 ---
 
 
-##### No.82 ウォーターチャレンジ
+##### No.82 アニプレックス YouTube チャンネル
 
 ![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
 
