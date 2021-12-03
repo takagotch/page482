@@ -1,16 +1,16 @@
 ---
-title: THE FIRST TAKE
+title: ヒカル（Hikaru）
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_15.html
+permalink: talents_30.html
 folder: talents
 ---
 
 
-### No.139 THE FIRST TAKE
+#### No.30 ヒカル（Hikaru）
 
-![](https://yt3.ggpht.com/ytc/AKedOLQbuBH5d26HSVtEaMt9oBgpC2G9gp5Gj3-sDgtvvA=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/ytc/AKedOLQXCk5vd80fARaWSo5BwNKPdyKLQy1fdrnFN0KLnw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
