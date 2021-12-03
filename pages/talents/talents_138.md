@@ -10,8 +10,7 @@ folder: talents
 
 ##### No.138 ひろゆきのマインド【#ひろゆき #hiroyuki】《切り抜き》
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLS-8Opnleeec7GTo6hcEBQvSezJyVRwGALSHEG2=s176-c-k-c0x00ffffff-no-rj)
 
 
 
