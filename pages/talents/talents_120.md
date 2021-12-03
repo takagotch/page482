@@ -1,17 +1,16 @@
 ---
-title: ウォーターチャレンジ
+title: テイコウペンギン
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_120.html
 folder: talents
 ---
 
 
-##### No.48 ウォーターチャレンジ
+##### No.48 テイコウペンギン
 
-![](https://yt3.ggpht.com/ytc/AKedOLTbCtN02EVfFE-YogZWgxCbRLhByR3LD-ACoef0xg=s176-c-k-c0x00ffffff-no-rj)
-
+![](https://yt3.ggpht.com/ytc/AKedOLQrje-VEL-uRsyMpnoB5L4xpg3jMQVlatIjXogl=s176-c-k-c0x00ffffff-no-rj)
 
 
 
