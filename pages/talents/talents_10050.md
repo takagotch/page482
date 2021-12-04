@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: KADOKAWAanime 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10050 タキロン  
+##### No.10050 KADOKAWAanime 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLTtDIDsQWuisNRpaooikoaN8LZ9N9PCi42ptYuPKw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
