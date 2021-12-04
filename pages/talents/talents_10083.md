@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: 夜のひと笑い 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10083 kemio
+##### No.10083 夜のひと笑い
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLRCfVVJ9CiDWTJ7fmYnFLNts12ivBioKMPQZ0Ws1g=s176-c-k-c0x00ffffff-no-rj)
 
 
 
