@@ -3,7 +3,7 @@ title: ぐっちの部屋(ミラクルぐっち)
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1007.html
+permalink: talents_10079.html
 folder: talents
 ---
 
