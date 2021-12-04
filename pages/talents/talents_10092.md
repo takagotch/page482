@@ -3,12 +3,12 @@ title: kemio
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1007.html
+permalink: talents_10092.html
 folder: talents
 ---
 
 
-##### No.1007 kemio
+##### No.10092 kemio
 
 ![](https
 
