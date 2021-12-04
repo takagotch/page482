@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: ポケモン公式YouTubeチャンネル 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10051 タキロン  
+##### No.10051 ポケモン公式YouTubeチャンネル 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLRjD9IC-hRWaIl6gAiANDeoASkhgPjY-gkVGKZFzw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
