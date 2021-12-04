@@ -3,7 +3,7 @@ title: ウォーターチャレンジ
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_.html
+permalink: talents_48.html
 folder: talents
 ---
 
