@@ -1,16 +1,17 @@
 ---
-title: kemio 
+title: たくっち 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1007.html
+permalink: talents_1008.html
 folder: talents
 ---
 
 
-##### No.1007 kemio
+##### No.1008 たくっち 
 
-![](https
+
+![](https://yt3.ggpht.com/ytc/AKedOLR9o9eN3HmIrKOO3e1BHQUvuruXigSR5gKiP7tPMw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
