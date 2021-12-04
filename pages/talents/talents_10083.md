@@ -3,7 +3,7 @@ title: kemio
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_10837.html
+permalink: talents_10083.html
 folder: talents
 ---
 
