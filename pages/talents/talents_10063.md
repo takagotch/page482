@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Rachel & Jun 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10063 タキロン  
+##### No.10063 Rachel & Jun 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLQmlSTvWG1y2WSkApFv_zc3YqILd2NgnhxxLKPvlQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
