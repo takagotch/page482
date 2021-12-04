@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: MuscleWatching 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10057 タキロン  
+##### No.10057 MuscleWatching 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLQRVl72twUiQmV2Mt4etyEMpzC5CRWCRBJt-52IsA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
