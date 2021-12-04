@@ -3,7 +3,7 @@ title: CANACANA family
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_43.html
 folder: talents
 ---
 
