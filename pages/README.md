@@ -6,13 +6,16 @@ articles
 
 
 ```
-mydoc           基本レイアウト１
-mydoc_shuffle   基本レイアウト２
-tag             タグテーブル
-product         固定ページレイアウト
-news            時刻表示レイアウト
+mydoc           基本レイアウト１　　　.md
+mydoc_shuffle   基本レイアウト２      .md
+tag             タグテーブル          .md
+product         固定ページレイアウト  .html
+news            時刻表示レイアウト    .md
 ```
+### 最大の違いは、.htmlファイル。基本は.mdファイル　Product
 
+```
+```
 
 
 ```
