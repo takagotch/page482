@@ -3,7 +3,7 @@ title: はねまりチャンネル・HANEMARI Channel
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_46.html
 folder: talents
 ---
 
