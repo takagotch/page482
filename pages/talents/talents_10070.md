@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: BTS JAPAN OFFICIAL 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,7 +8,7 @@ folder: talents
 ---
 
 
-##### No.10070 kemio
+##### No.10070 BTS JAPAN OFFICIAL
 
 ![](https
 
