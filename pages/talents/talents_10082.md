@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: maidigitv  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.1007 kemio
+##### No.1007 maidigitv 
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLSnRNRZ5nxSo08bTNccx8AjGBqrz9yRAI6WYsUm=s176-c-k-c0x00ffffff-no-rj)
 
 
 
