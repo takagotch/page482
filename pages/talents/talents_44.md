@@ -3,7 +3,7 @@ title: プリンセス姫スイートＴＶ Princess Hime Suite TV
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_30.html
+permalink: talents_44.html
 folder: talents
 ---
 
