@@ -3,7 +3,7 @@ title: Travel Thirsty
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10010.html
 folder: talents
 ---
 
