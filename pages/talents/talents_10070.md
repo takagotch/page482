@@ -10,7 +10,7 @@ folder: talents
 
 ##### No.10070 BTS JAPAN OFFICIAL
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLRgZdSYd646UbrlYl_0dNuTXMDILerLH-uqP98Q=s176-c-k-c0x00ffffff-no-rj)
 
 
 
