@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: NiziU Official 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10071 kemio
+##### No.10071 NiziU Official 
 
-![](https
+
+![](https://yt3.ggpht.com/-p8Tb72lbQkqvkE077_W36DYMgC9kZTQ1CASdr7JDWnfYcEdELq0rjd43mrkBeC5ejYLtQ51pg=s176-c-k-c0x00ffffff-no-rj)
 
 
 
