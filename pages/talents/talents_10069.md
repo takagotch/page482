@@ -1,5 +1,6 @@
 ---
-title: タキロン
+title: Goose house 
+
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +9,10 @@ folder: talents
 ---
 
 
-##### No.10069 タキロン  
+##### No.10069 Goose house 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLT76dESvTJyh4_BMwqBAkkhaW7I6Dir9-U0S9Pn3Q=s176-c-k-c0x00ffffff-no-rj)
 
 
 
