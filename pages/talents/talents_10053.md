@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Johnny's official 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10053 タキロン  
+##### No.10053 Johnny's official 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLTvtLV7QP-wcCx3qcR3UQ40sNzSjaOjeeWthEWs=s176-c-k-c0x00ffffff-no-rj)
 
 
 
