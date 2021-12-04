@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: エガちゃんねる EGA-CHANNEL
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10064 タキロン  
+##### No.10064 エガちゃんねる EGA-CHANNEL  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLSj7y83WYDt8RWmGKjB0Ff1oiKrvndB3s9Y1alq=s176-c-k-c0x00ffffff-no-rj)
 
 
 
