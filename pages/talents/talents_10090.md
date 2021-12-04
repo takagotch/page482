@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: ASMR suna 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10090 kemio
+##### No.10090 ASMR suna
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLQMxN33GWlwXDNwDsPM9JUkV37JTPjZQNBmKMQG5A=s176-c-k-c0x00ffffff-no-rj)
 
 
 
