@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: 天月-あまつき- YouTube Official Channel  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10096 kemio
+##### No.10096 天月-あまつき- YouTube Official Channel 
 
-![](https
+
+![](https://yt3.ggpht.com/ytc/AKedOLSGgoqdtG6rH2SUIzZ7zb998OFgEN1bIC2Tt50IOw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
