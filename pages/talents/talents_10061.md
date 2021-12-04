@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Emojoie えもじょわ
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10061 タキロン  
+##### No.10061 Emojoie えもじょわ  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLRl1t9nJv34IXvq_cUJroJhbY4SLtnxJla06yqy5A=s176-c-k-c0x00ffffff-no-rj)
 
 
 
