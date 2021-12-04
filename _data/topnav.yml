@@ -25,7 +25,7 @@ topnav_dropdowns:
       folderitems:
         - title: トップ1~50位
           url: /index.html
-        - title: Product 1
+        - title: Junya.じゅんや
           url: /p1_junya.html
 #        - title: Product 2
 #          url: /p2_landing_page.html
