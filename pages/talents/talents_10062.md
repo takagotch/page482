@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Nintendo 公式チャンネル 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10062 タキロン  
+##### No.10062 Nintendo 公式チャンネル 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLScB-2fi4QVWF4i8cRh7Tp6Njt-DClNJF0ensNfYA=s176-c-k-c0x00ffffff-no-rj
 
 
 
