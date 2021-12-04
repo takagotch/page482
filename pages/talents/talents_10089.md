@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: Ichika Nito  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10089 kemio
+##### No.10089 Ichika Nito 
 
-![](https
+
+![](https://yt3.ggpht.com/ytc/AKedOLQnZVxpiVDT4BrowDbJT8AX7_s6HNjvYcyjYeIV=s176-c-k-c0x00ffffff-no-rj)
 
 
 
