@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: HoneyWorks OFFICIAL 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.1006 タキロン  
+##### No.1006 HoneyWorks OFFICIAL 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLTd-6SRTDuCXRdylU91fKo1o2vBS-vpWLYdByRBrA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
