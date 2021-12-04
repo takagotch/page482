@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: Warner Music Japan 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10068 タキロン  
+##### No.10068 Warner Music Japan 
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLSuLeb4huDbKOPy8VRSDr7Wp2CiSLk6rjE8ojowWA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
