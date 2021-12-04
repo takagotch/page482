@@ -3,7 +3,7 @@ title: avex
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_1001.html
+permalink: talents_10012.html
 folder: talents
 ---
 
