@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: ジュキヤ/Jukiya
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,9 @@ folder: talents
 ---
 
 
-##### No.10055 タキロン  
+##### No.10055 ジュキヤ/Jukiya  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLS7F2zRWnBGtMTjoMVfYEqNXzCUp3ffB3C--6-Nmw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
