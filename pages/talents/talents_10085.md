@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: Marine Ch. 宝鐘マリン  
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10085 kemio
+##### No.10085 Marine Ch. 宝鐘マリン 
 
-![](https
+
+![](https://yt3.ggpht.com/ytc/AKedOLRFcdtwPHqI4573geBEyNL5h93BxtH5cMy_aL4zUw=s176-c-k-c0x00ffffff-no-rj)
 
 
 
