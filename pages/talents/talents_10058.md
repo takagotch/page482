@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: レトルト 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10058 タキロン  
+##### No.10058 レトルト 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLTahfK03H4Hd5cZ-ZauWv_lujyfhwB2DTIrR9TdJA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
