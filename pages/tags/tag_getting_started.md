@@ -1,6 +1,6 @@
 ---
 title: "Getting started pagesフロアマップ"
-tagName: home
+tagName: getting_started
 search: exclude
 permalink: tag_getting_started.html
 sidebar: mydoc_sidebar
