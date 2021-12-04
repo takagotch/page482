@@ -1,5 +1,5 @@
 ---
-title: kemio 
+title: HatsuneMiku 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10072 kemio
+##### No.10072 HatsuneMiku 
 
-![](https
+
+![](https://yt3.ggpht.com/ytc/AKedOLQajxibiHJ2OwzwaV4_kGWHF8pfCZDoQ6Ksj6L4fA=s176-c-k-c0x00ffffff-no-rj)
 
 
 
