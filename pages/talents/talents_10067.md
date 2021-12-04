@@ -1,5 +1,5 @@
 ---
-title: タキロン
+title: japanesestuffchannel 
 tags: [getting_started]
 summary: ""
 sidebar: talents_sidebar
@@ -8,9 +8,10 @@ folder: talents
 ---
 
 
-##### No.10067 タキロン  
+##### No.10067 japanesestuffchannel 
+  
 
-![](https
+![](https://yt3.ggpht.com/ytc/AKedOLQbHdOrmIDSEz_cEE4Gy2QiQ5hME5EH3lgSR700kQ=s176-c-k-c0x00ffffff-no-rj)
 
 
 
