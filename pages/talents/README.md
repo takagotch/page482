@@ -26,6 +26,11 @@ folder: talents
 
 ```xxx
 
+
+プロフィール ページ
+
+
+
 ```
 
 
