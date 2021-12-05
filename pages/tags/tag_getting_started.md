@@ -1,5 +1,5 @@
 ---
-title: "Getting started pagesフロアマップ"
+title: "タレント名鑑"
 tagName: getting_started
 search: exclude
 permalink: tag_getting_started.html
