@@ -4,34 +4,6 @@
 ### tag_income_rank3.md
 
 
-``` .html
-<table>
-<thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
-</table>
-```
-
-``` .md
-|  再生回数  |  チャンネル登録者数  |  推定年収  |
-| ---- | ---- | ---- |
-|  57億8242万6288回  |  1130万人　|  6億9389万1154円  |
-```
-
-
-``` .html
-<thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
-<thead><tr><th>Youtube</th><th>1位</th><th>推定年収</th></tr></thead>      # dark
-<thead><tr><th>Youtube</th><th>2位</th><th>推定年収</th></tr></thead>      # dark
-...
-<thead><tr><th>Youtube</th><th>10位</th><th>推定年収</th></tr></thead>     # dark
-
-<thead><tr><th>Youtube</th><th>11位</th><th>推定年収</th></tr></thead>     # green
-<thead><tr><th>Youtube</th><th>12位</th><th>推定年収</th></tr></thead>     # green
-...
-<thead><tr><th>Youtube</th><th>20位</th><th>推定年収</th></tr></thead>     # green
-
-
-
-```
 
 
 ### tag_simple_ranking.md
@@ -65,3 +37,33 @@
 ```
 
 
+---
+
+``` .html
+<table>
+<thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
+</table>
+```
+
+``` .md
+|  再生回数  |  チャンネル登録者数  |  推定年収  |
+| ---- | ---- | ---- |
+|  57億8242万6288回  |  1130万人　|  6億9389万1154円  |
+```
+
+
+``` .html
+<thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
+<thead><tr><th>Youtube</th><th>1位</th><th>推定年収</th></tr></thead>      # dark
+<thead><tr><th>Youtube</th><th>2位</th><th>推定年収</th></tr></thead>      # dark
+...
+<thead><tr><th>Youtube</th><th>10位</th><th>推定年収</th></tr></thead>     # dark
+
+<thead><tr><th>Youtube</th><th>11位</th><th>推定年収</th></tr></thead>     # green
+<thead><tr><th>Youtube</th><th>12位</th><th>推定年収</th></tr></thead>     # green
+...
+<thead><tr><th>Youtube</th><th>20位</th><th>推定年収</th></tr></thead>     # green
+
+
+
+```
