@@ -1,3 +1,4 @@
+## 推定年収
 ### tag_income_ranking.md
 ### tag_income_rank1.md
 ### tag_income_rank2.md
@@ -29,8 +30,9 @@
 <thead><tr><th>Youtube</th><th>About3億</th><th>ああああああ</th></tr></thead>     # green
 ```
 
+---
 
-
+## ランキング
 ### tag_simple_ranking.md
 ### tag_simple_rank1.md
 ### tag_simple_rank2.md
@@ -64,3 +66,13 @@
 
 
 ```
+
+---
+
+## チャンネル登録者数
+## 累計・想定年収
+## 昨日の収益
+## 推定時給
+## 累計・再生回数
+## 再生回数
+
