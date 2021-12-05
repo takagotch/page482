@@ -1,6 +1,6 @@
 repository: takagotch/page482
 
-output: web
+output: web # or PDF
 # this property is useful for conditional filtering of content that is separate from the PDF.
 
 topnav_title: 年収ランキング「長者番付」2021
@@ -11,6 +11,7 @@ site_title: Youtuber 年収ランキングサイト「長者番付YT」　2021
 
 company_name: Youtube「長者番付YT」
 # this appears in the footer
+
 
 # Edit me 
 # github_editme_path: takagotch/page482/blob/gh-pages/
@@ -41,7 +42,7 @@ feedback_subject_line: 件名：「」、名前：「」
 feedback_email: takagotch@mineo.jp
 # used as a contact email for the Feedback link in the top navigation bar
 #
-# feedback_disable: true
+feedback_disable: true
 # if you uncomment the previous line, the Feedback link gets removed
 #
 feedback_text: "Need help?"
