@@ -4,9 +4,18 @@
 ### tag_income_rank3.md
 
 
-```
+``` .html
+<table><thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
+</table>
 ```
 
+``` .md
+
+```
+
+
+```
+```
 
 
 ### tag_simple_ranking.md
