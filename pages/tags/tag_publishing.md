@@ -1,5 +1,5 @@
 ---
-title: "Publishing pages"
+title: "特集ページ"
 tagName: publishing
 search: exclude
 permalink: tag_publishing.html
