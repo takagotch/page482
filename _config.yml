@@ -76,6 +76,7 @@ defaults:
     values:
       layout: "page"
       comments: false # alternative to disqus
+                      # Isso – a commenting server similar to Disqus
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
@@ -96,6 +97,7 @@ defaults:
     values:
       layout: "post"
       comments: false  # alternative to disqus
+                       # Isso – a commenting server similar to Disqus
       # if you don't want to use Commento.io and just hide comments, change true to false wherever you see the comments property
       search: true
       sidebar: home_sidebar
