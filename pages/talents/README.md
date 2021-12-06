@@ -34,7 +34,28 @@ folder: talents
 ```
 
 
+``` 
+---
+title: xxxxxxxxxxxxxxxxxxxxxxxxx
+tags: [getting_started]
+summary: ""
+sidebar: talents_sidebar
+permalink: talents_29.html
+folder: talents
+---
 
+
+#### No.29 xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
+
+![](xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx)
+
+
+
+
+
+{% include links.html %}
+
+```
 
 
 
