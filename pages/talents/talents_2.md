@@ -1,7 +1,7 @@
 ---
 title: Sagawa /さがわ
 last_updated: July 1, 2021
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_2.html
