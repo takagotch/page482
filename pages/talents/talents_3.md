@@ -3,7 +3,7 @@ title: まいぜんシスターズ
 tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
-permalink: talents_15.html
+permalink: talents_3.html
 folder: talents
 ---
 
