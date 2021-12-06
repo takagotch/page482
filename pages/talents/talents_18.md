@@ -1,6 +1,6 @@
 ---
 title: BabyBus - 子供の歌 - 子どもの動画
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_18.html
