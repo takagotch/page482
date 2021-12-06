@@ -22,7 +22,7 @@ entries:
       type: homepage
 
     - title: 5億OVERanking
-      url: /tag_top1.html
+      url: /tag_top1_50.html
       output: web, pdf
       type: homepage
       
