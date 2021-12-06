@@ -396,7 +396,7 @@ permalink: index.html
 
 
 
-{% include taglogic_tt.html %}
+
 
 
 
