@@ -13,7 +13,7 @@ folder: talents
 ![](https://yt3.ggpht.com/ytc/AKedOLRaguXQhOaZpPvgYHKXJF64HwHf8V6evAlV5avsaQ=s176-c-k-c0x00ffffff-no-rj)
 
 
-
+{% include %}
 
 
 
