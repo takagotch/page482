@@ -32,7 +32,8 @@ fa fa-home
 ```
 
 
-``` .html
+``` .html 
+width="75" height="25" => title-yt/yt11.png,yt12,yt13　の時
 	      <img src="{{ "images/title-yt/yty2r.png" }}" alt="Top Nav Title IMG" width="75" height="25"/>		    
 
 ```
