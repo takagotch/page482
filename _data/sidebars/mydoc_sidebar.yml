@@ -26,10 +26,10 @@ entries:
       output: web, pdf
       type: homepage
       
-    - title: 1億OVERanking
-      url: /tag_100_million_over.html
-      output: web, pdf
-      type: homepage 
+#    - title: 1億OVERanking
+#      url: /tag_100_million_over.html
+#      output: web, pdf
+#      type: homepage 
 
 
 
