@@ -10,7 +10,7 @@ folder: talents
 
 #### No.29 E ve
 
-![](https://yt3.ggpht.com/sBX3z3os13Gy81Bc7mtqXbqLPa8fjTfb1IZTa1bP86hwmO1rnk2ObzW4HTl5Ew6HO70XuOwBCLQ=s176-c-k-c0x00ffffff-no-rj)
+![](https://yt3.ggpht.com/x6uRkZ7MCckl4__VS0tlXIummARYzzTOsoXKonlga5EP_kFBIZwQczumXB3fEa0C4hyGTvbR=s176-c-k-c0x00ffffff-no-rj)
 
 
 
