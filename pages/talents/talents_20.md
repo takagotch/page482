@@ -1,6 +1,6 @@
 ---
 title: 愛國者会長༆登録者49万人目標w【先輩】
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_20.html
