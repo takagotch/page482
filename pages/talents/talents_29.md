@@ -1,6 +1,6 @@
 ---
 title: E ve
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_29.html
