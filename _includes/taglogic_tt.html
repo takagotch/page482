@@ -3,5 +3,52 @@ taglogic_top_table.html
 -->
 
 
+<!-
+top1_50.html 用
+->
 
+<table><thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
+    <tbody>
+   
+    {% assign thisTag = page.tagName %}
+  　{% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == thisTag %}
+
+        <tr>
+          <td><a href="{{ page.url | remove: "/" }}">{{page.title}}</a></td>
+          
+          <td><span class="label label-default">トップ５０</span></td>
+            
+          <td>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ page.content | truncatewords: 50 | strip_html }} {% endif %}</td>  
+        </tr>
+      
+        <tr>
+          <td><a href="{{ page.url | remove: "/" }}">{{page.title}}</a></td>
+          
+          <td><span class="label label-default">トップ５０</span></td>
+            
+          <td>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ page.content | truncatewords: 50 | strip_html }} {% endif %}</td>  
+        </tr>
+
+
+      
+     {% endif %}
+     {% endfor %}
+   　{% endfor %}
+
+    {% assign thisTag = page.tagName %}
+  　{% for page in site.pages %}
+    {% for tag in page.tags %}
+    {% if tag == thisTag %}
+ 
+        
+     </tbody>
+    
+</table>
+
+
+<!--
+<p>The following pages and posts are tagged with <button type="button" style="cursor: default" class="btn btn-default navbar-btn">{{page.tagName}}</button></p>
+-->
 
