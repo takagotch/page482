@@ -1,6 +1,6 @@
 ---
 title: 岡野タケシ弁護士【アトム法律事務所】
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_47.html
