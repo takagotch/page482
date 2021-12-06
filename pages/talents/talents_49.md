@@ -1,6 +1,6 @@
 ---
 title: ひろゆきの部屋【ひろゆき, hiroyuki】切り抜き
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_49.html
