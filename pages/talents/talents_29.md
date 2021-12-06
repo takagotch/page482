@@ -1,5 +1,5 @@
 ---
-title: E ve
+title: Eve
 tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
