@@ -16,16 +16,16 @@ entries:
       type: homepage
 
 #　　　　　　 フロアマップ、タグ２・テーブル表示
-    - title: タレント名鑑ALLStars
-      url: /tag_getting_started.html
-      output: web, pdf
-      type: homepage
-
-    - title: 5億OVERanking
-      url: /tag_top1_50.html
-      output: web, pdf
-      type: homepage
-      
+#    - title: タレント名鑑ALLStars
+#      url: /tag_getting_started.html
+#      output: web, pdf
+#      type: homepage
+#
+#    - title: 5億OVERanking
+#      url: /tag_top1_50.html
+#      output: web, pdf
+#      type: homepage
+#      
 #    - title: 1億OVERanking
 #      url: /tag_100_million_over.html
 #      output: web, pdf
