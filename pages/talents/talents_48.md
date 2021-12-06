@@ -1,6 +1,6 @@
 ---
 title: ウォーターチャレンジ
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_48.html
