@@ -1,7 +1,7 @@
 ---
 title: Junya.じゅんや
 last_updated: July 1, 2021
-tags: [getting_started]
+tags: [getting_started,top1 50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_1.html
