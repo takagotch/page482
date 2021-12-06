@@ -1,6 +1,6 @@
 ---
-title: No.50 兄者弟者
-tags: [getting_started]
+title: 兄者弟者
+tags: [getting_started, top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_50.html
