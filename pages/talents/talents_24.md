@@ -1,6 +1,6 @@
 ---
 title: Marble ASMR healing Junior Japan
-tags: [getting_started]
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_24.html
