@@ -8,7 +8,7 @@ folder: talents
 ---
 
 
-### No.13 まいぜんシスターズ
+### No.3 まいぜんシスターズ
 
 ![](https://yt3.ggpht.com/G7RTgeS3hyhX69n8UuOs0BmE4f_CNarOdJIQUVU0X7xflqMSC7PimpCZOx-eQQwLoKwK6Fik=s176-c-k-c0x00ffffff-no-rj)
 
