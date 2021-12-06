@@ -1,8 +1,8 @@
 ---
 title: "特集ページ"
-tagName: publishing
+tagName: top1_50
 search: exclude
-permalink: tag_publishing.html
+permalink: tag_top1_50.html
 sidebar: mydoc_sidebar
 folder: tags
 ---
