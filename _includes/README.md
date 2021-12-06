@@ -32,7 +32,10 @@ fa fa-home
 ```
 
 
+``` .html
+	      <img src="{{ "images/title-yt/yty2r.png" }}" alt="Top Nav Title IMG" width="75" height="25"/>		    
 
+```
 
 
 
