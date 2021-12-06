@@ -21,6 +21,19 @@ https://docs.google.com/spreadsheets/d/15nAYJ1smospKcf5zz41b5lF7WlDxUInO2-YGpkPn
 
 
 
+```
+やることリスト
+
+tag1_50.html
+tag50_100.html
+tag100_150.html
+tag10001_10099.html
+
+```
+
+
+
+
 
 ```
 タレント名鑑(ALL)　データ入力　name,imgURL
