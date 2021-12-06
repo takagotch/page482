@@ -1,6 +1,6 @@
 ---
 title: HikakinTV
-tags: [getting_started]
+tags: [getting_started,top1 50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_10.html
