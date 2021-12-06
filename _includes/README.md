@@ -41,6 +41,7 @@ width="75" height="25" => title-yt/yt11.png,yt12,yt13　の時
 
 
 
+<table><thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
 
 
 
