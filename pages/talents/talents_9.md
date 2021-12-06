@@ -1,6 +1,6 @@
 ---
-title: THE FIRST TAKE
-tags: [getting_started]
+title: コムドット
+tags: [getting_started,top1_50]
 summary: ""
 sidebar: talents_sidebar
 permalink: talents_9.html
