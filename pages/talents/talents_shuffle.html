@@ -25,7 +25,7 @@ folder: talents
 
 
 
-      <div class="filter-options">
+    <div class="filter-options">
             
       <button class="btn btn-primary" data-group="all">ALL</button>
       <button class="btn btn-primary" data-group="getting_started">タレント名鑑AllStars</button>
@@ -65,7 +65,7 @@ folder: talents
                    <ul>
                 {% for page in site.pages %}
                 {% for tag in page.tags %}
-                {% if tag == "publishing" %}
+                {% if tag == "top1" %}
                   <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
                 {% endif %}
                 {% endfor %}
