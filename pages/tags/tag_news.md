@@ -10,6 +10,6 @@ folder: tags
 
 
 
-{% include taglogic_news.html %}
+{% include taglogic.html %}
 
 {% include links.html %}
