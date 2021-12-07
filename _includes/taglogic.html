@@ -1,8 +1,11 @@
 <!--
 top1_50.html 用
 -->
+<link rel ="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.css">
 
-<table><thead><tr><th>Youtube</th><th>ランキング</th><th>推定年収</th></tr></thead>
+
+
+<table><thead><tr><th>Youtube</th><th> <i class="fas fa-user-shield"></i> </th><th> <i class="fas fa-money-check"></i> </th></tr></thead>
     <tbody>
    
               
@@ -12,7 +15,7 @@ top1_50.html 用
         {% if tag == thisTag %}
 
         <tr><td><a href="{{ page.url | remove: "/" }}">{{page.title}}</a></td>
-            <td><span class="label label-default"> トップ５０ </span></td>
+            <td><span class="label label-default"> ✔ </span></td>
           <td>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ page.content | truncatewords: 50 | strip_html }} {% endif %}</td>
         </tr>
         {% endif %}
