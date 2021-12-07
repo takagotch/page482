@@ -7,7 +7,7 @@ https://docs.google.com/spreadsheets/d/15nAYJ1smospKcf5zz41b5lF7WlDxUInO2-YGpkPn
 pages/talents/talents_shuffle.html
       <button class="btn btn-primary" data-group="top1_50">トップ50</button>                 <!-- top1_50 -->
       <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["top1_50"]'>       <!-- top1_50 -->
-      {% if tag == "top1_50" %}                                     <!-- top1_50 -->
+       tag == "top1_50"                                      <!-- top1_50 -->
 
 pages/talents/tag_top1_50.md
 ...
