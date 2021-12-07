@@ -1,3 +1,30 @@
+
+```
+_data/tags.yml
+- getting_started
+```
+
+```
+tag_getting_started.html
+---
+title: "タレント名鑑"
+tagName: getting_started
+search: exclude
+permalink: tag_getting_started.html
+sidebar: mydoc_sidebar
+folder: tags
+---
+{% include taglogic.html %}
+
+{% include links.html %}
+```
+
+```
+
+```
+
+---
+---
 ## 推定年収
 ### tag_income_ranking.md
 ### tag_income_rank1.md
