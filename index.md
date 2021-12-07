@@ -402,7 +402,6 @@ permalink: index.html
 
 
 
-
 {% include links.html %}
 
 
