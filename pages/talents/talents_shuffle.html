@@ -28,43 +28,15 @@ folder: talents
       <div class="filter-options">
             
       <button class="btn btn-primary" data-group="all">ALL</button>
-
       <button class="btn btn-primary" data-group="getting_started">タレント名鑑AllStars</button>
-<!--            
-      <button class="btn btn-primary" data-group="formatting">3億Over</button>
--->
-            
       <button class="btn btn-primary" data-group="top1">1億</button>
-<!-- 
-      <button class="btn btn-primary" data-group="top50_100">1億</button>
-      <button class="btn btn-primary" data-group="top100_150">1億</button>
-      <button class="btn btn-primary" data-group="top150_200">1億</button>
--->            
-
-<!--            income_100_million_over 一億
-                income_500_million_over 五億
-                income_50_million_over  五千万
-      <button class="btn btn-primary" data-group="income1mo">1億</button>  
-      <button class="btn btn-primary" data-group="income5mo">1億</button>
-      <button class="btn btn-primary" data-group="income">1億</button>     
-       
--->
-            
-<!--
-      <button class="btn btn-primary" data-group="content-types">8千万</button>
-      <button class="btn btn-primary" data-group="single_sourcing">5千万</button>
-      <button class="btn btn-primary" data-group="special_layouts">3千万</button>
-      <button class="btn btn-primary" data-group="special_layouts1">1千万</button>
-      <button class="btn btn-primary" data-group="special_layouts2">800万</button>
-      <button class="btn btn-primary" data-group="special_layouts3">500万</button>
--->
     </div>      
 
 <div id="grid" class="row">
 
 
     <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["getting_started"]'>
-
+          
                <div class="panel panel-default">
                <div class="panel-heading">タレント名鑑AllStars</div>
                <div class="panel-body">
@@ -100,100 +72,12 @@ folder: talents
                 {% endfor %}
                    </ul>
                </div>
-            </div>
+               </div>
 
     </div>
-
-      
-<!--      
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["special_layouts"]'>
-
-             <div class="panel panel-default">
-               <div class="panel-heading">3千万</div>
-               <div class="panel-body">
-                        3千万
-                     <ul>
-                {% for page in site.pages %}
-                {% for tag in page.tags %}
-                {% if tag == "special_layouts" %}
-                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-                {% endfor %} 
-                  </ul>
-               </div>
-            </div>
-
-    </div>
-
-
-      
-    </div>
-
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["home"]'>
-
-             <div class="panel panel-default">
-               <div class="panel-heading">1千万</div>
-               <div class="panel-body">
-                  1千万
-                  <ul>
-                {% for page in site.pages %}
-                {% for tag in page.tags %}
-                {% if tag == "special_layouts" %}
-                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-                {% endfor %} 
-                  </ul>
-               </div>
-            </div>
-
-    </div>
-
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["special_layouts2"]'>
-
-             <div class="panel panel-default">
-               <div class="panel-heading">800万</div>
-               <div class="panel-body">
-                  special_layouts2
-                  <ul>
-                {% for page in site.pages %}
-                {% for tag in page.tags %}
-                {% if tag == "special_layouts" %}
-                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-                {% endfor %} 
-                  </ul>
-               </div>
-            </div>
-
-    </div>      
-
-        <div class="col-xs-6 col-sm-4 col-md-4" data-groups='["special_layouts3"]'>
-
-             <div class="panel panel-default">
-               <div class="panel-heading">500万</div>
-               <div class="panel-body">
-                  special_layouts3
-                  <ul>
-                {% for page in site.pages %}
-                {% for tag in page.tags %}
-                {% if tag == "special_layouts" %}
-                     <li><a href="{{page.url | remove: '/'}}">{{page.title}}</a></li>
-                {% endif %}
-                {% endfor %}
-                {% endfor %} 
-                  </ul>
-               </div>
-            </div>
-
-    </div> 
-
--->
 
               
-    </div>      
+</div>      
           <!-- sizer -->
       <div class="col-xs-6 col-sm-4 col-md-1 shuffle_sizer"></div>          
 
