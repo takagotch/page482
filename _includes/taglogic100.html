@@ -33,9 +33,7 @@ label label-danger
             
           <td>{% if page.summary %} {{ page.summary | strip_html | strip_newlines | truncate: 160 }} {% else %} {{ page.content | truncatewords: 50 | strip_html }} {% endif %}</td>  
         </tr>
-     {% endif %}
-     {% endfor %}
-   　{% endfor %}
+
 
 
 
