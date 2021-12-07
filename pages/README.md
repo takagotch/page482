@@ -12,7 +12,7 @@ tag             タグテーブル          .md
 product         固定ページレイアウト  .html
 news            時刻表示レイアウト    .md
 ```
-### 最大の違いは、.htmlファイル。基本は.mdファイル　Product
+最大の違いは、.htmlファイル。基本は.mdファイル　Product
 
 ```
 ```
