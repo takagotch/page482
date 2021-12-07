@@ -6,7 +6,7 @@ allowed-tags:
   - content_types
   - navigation
   - formatting
-  - publishing
+#  - publishing
   - single_sourcing
   - special_layouts
   - collaboration
